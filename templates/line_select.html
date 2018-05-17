@@ -1,0 +1,51 @@
+{% extends "layout.html" %} 
+{% block body %}
+<script type="text/javascript" charset="utf-8">
+function calculate() {
+          $.ajax({
+              type: 'POST',
+              url:"{{ url_for('calculate') }}",
+              data: {
+                  station_1 : $("#station_select_1").val(),
+                  station_2: $("#station_select_2").val(),
+              },
+              success: function(data) {
+                document.getElementById("status").innerHTML = data;
+              },
+              error: function(error){
+                  console.log(error)
+              }
+          });
+};
+</script>
+<div id=selection_form class='form-group mdl-card container flexbox-centering'>
+    <form action = "{{ url_for('line_select')}}" method="GET">
+     <select id='line_select' name='line' onchange="this.form.submit()" class="form-control" justify-content='center'>
+            {% for line in lines %}
+            {% if line == selected_line %}
+                <option selected value="{{ line }}">{{ line }}</option> 
+            {% else %} 
+                <option value="{{ line }}">{{ line }}</option> 
+            {% endif %}
+           {% endfor %}
+     </select>
+     </form>
+     <form>
+     <select id='station_select_1' name='station_1'class="form-control" justify-content='center'>
+        {% for code, name in stations %}
+            <option value="{{ code }}">{{ name }}</option> 
+        {% endfor %}
+    </select>
+    <select id='station_select_2' name='station_2'class="form-control" justify-content='center'>
+        {% for code, name in stations %}
+            <option value="{{ code }}">{{ name }}</option> 
+        {% endfor %}
+    </select>
+    </form>
+    <div id='controls'>
+        <button  class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="calculate()">Go</button>
+    </div>
+</div>
+<p id='status'></p>
+
+{% endblock %}

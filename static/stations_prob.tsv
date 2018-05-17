@@ -1,0 +1,156 @@
+stn_code	mrt_station_english	mrt_station_chinese	mrt_line_english	mrt_line_chinese	count	p_breakdown	p_no_breakdown
+NS1	Jurong East	裕廊东	North South Line	南北线	92	0.063013699	0.936986301
+NS2	Bukit Batok	武吉巴督	North South Line	南北线	88	0.060273973	0.939726027
+NS3	Bukit Gombak	武吉甘柏	North South Line	南北线	88	0.060273973	0.939726027
+NS4	Choa Chu Kang	蔡厝港	North South Line	南北线	91	0.062328767	0.937671233
+NS5	Yew Tee	油池	North South Line	南北线	92	0.063013699	0.936986301
+NS7	Kranji	克兰芝	North South Line	南北线	92	0.063013699	0.936986301
+NS8	Marsiling	马西岭	North South Line	南北线	93	0.06369863	0.93630137
+NS9	Woodlands	兀兰	North South Line	南北线	99	0.067808219	0.932191781
+NS10	Admiralty	海军部	North South Line	南北线	94	0.064383562	0.935616438
+NS11	Sembawang	三巴旺	North South Line	南北线	98	0.067123288	0.932876712
+NS13	Yishun	义顺	North South Line	南北线	111	0.076027397	0.923972603
+NS14	Khatib	卡迪	North South Line	南北线	105	0.071917808	0.928082192
+NS15	Yio Chu Kang	杨厝港	North South Line	南北线	108	0.073972603	0.926027397
+NS16	Ang Mo Kio	宏茂桥	North South Line	南北线	120	0.082191781	0.917808219
+NS17	Bishan	碧山	North South Line	南北线	117	0.080136986	0.919863014
+NS18	Braddell	布莱德	North South Line	南北线	110	0.075342466	0.924657534
+NS19	Toa Payoh	大巴窑	North South Line	南北线	111	0.076027397	0.923972603
+NS20	Novena	诺维娜	North South Line	南北线	105	0.071917808	0.928082192
+NS21	Newton	纽顿	North South Line	南北线	110	0.075342466	0.924657534
+NS22	Orchard	乌节	North South Line	南北线	111	0.076027397	0.923972603
+NS23	Somerset	索美塞	North South Line	南北线	110	0.075342466	0.924657534
+NS24	Dhoby Ghaut	多美歌	North South Line	南北线	109	0.074657534	0.925342466
+NS25	City Hall	政府大厦	North South Line	南北线	104	0.071232877	0.928767123
+NS26	Raffles Place	莱佛士坊	North South Line	南北线	107	0.073287671	0.926712329
+NS27	Marina Bay	滨海湾	North South Line	南北线	105	0.071917808	0.928082192
+NS28	Marina South Pier	滨海南码头	North South Line	南北线	44	0.030136986	0.969863014
+EW1	Pasir Ris	巴西立	East West Line	东西线	62	0.042465753	0.957534247
+EW2	Tampines	淡滨尼	East West Line	东西线	63	0.043150685	0.956849315
+EW3	Simei	四美	East West Line	东西线	55	0.037671233	0.962328767
+EW4	Tanah Merah	丹那美拉	East West Line	东西线	65	0.044520548	0.955479452
+EW5	Bedok	勿洛	East West Line	东西线	60	0.04109589	0.95890411
+EW6	Kembangan	景万岸	East West Line	东西线	59	0.040410959	0.959589041
+EW7	Eunos	友诺士	East West Line	东西线	62	0.042465753	0.957534247
+EW8	Paya Lebar	巴耶利峇	East West Line	东西线	60	0.04109589	0.95890411
+EW9	Aljunied	阿裕尼	East West Line	东西线	52	0.035616438	0.964383562
+EW10	Kallang	加冷	East West Line	东西线	48	0.032876712	0.967123288
+EW11	Lavender	劳明达	East West Line	东西线	45	0.030821918	0.969178082
+EW12	Bugis	武吉士	East West Line	东西线	46	0.031506849	0.968493151
+EW13	City Hall	政府大厦	East West Line	东西线	39	0.026712329	0.973287671
+EW14	Raffles Place	莱佛士坊	East West Line	东西线	39	0.026712329	0.973287671
+EW15	Tanjong Pagar	丹戎巴葛	East West Line	东西线	41	0.028082192	0.971917808
+EW16	Outram Park	欧南园	East West Line	东西线	41	0.028082192	0.971917808
+EW17	Tiong Bahru	中峇鲁	East West Line	东西线	37	0.025342466	0.974657534
+EW18	Redhill	红山	East West Line	东西线	37	0.025342466	0.974657534
+EW19	Queenstown	女皇镇	East West Line	东西线	45	0.030821918	0.969178082
+EW20	Commonwealth	联邦	East West Line	东西线	45	0.030821918	0.969178082
+EW21	Buona Vista	波那维斯达	East West Line	东西线	47	0.032191781	0.967808219
+EW22	Dover	杜弗	East West Line	东西线	44	0.030136986	0.969863014
+EW23	Clementi	金文泰	East West Line	东西线	48	0.032876712	0.967123288
+EW24	Jurong East	裕廊东	East West Line	东西线	38	0.026027397	0.973972603
+EW25	Chinese Garden	裕华园	East West Line	东西线	37	0.025342466	0.974657534
+EW26	Lakeside	湖畔	East West Line	东西线	35	0.023972603	0.976027397
+EW27	Boon Lay	文礼	East West Line	东西线	45	0.030821918	0.969178082
+EW28	Pioneer	先驱	East West Line	东西线	41	0.028082192	0.971917808
+EW29	Joo Koon	裕群	East West Line	东西线	43	0.029452055	0.970547945
+EW30	Gul Circle	卡尔圈 站	East West Line	东西线	8	0.005479452	0.994520548
+EW31	Tuas Crescent	大士弯站	East West Line	东西线	7	0.004794521	0.995205479
+EW32	Tuas West Road	大 士 西 路站	East West Line	东西线	7	0.004794521	0.995205479
+EW33	Tuas Link	大士连路站	East West Line	东西线	7	0.004794521	0.995205479
+CG1	Expo	博览	Changi Airport Branch Line	樟宜机场支线	2	0.001369863	0.998630137
+CG2	Changi Airport	樟宜机场	Changi Airport Branch Line	樟宜机场支线	10	0.006849315	0.993150685
+NE1	HarbourFront	港湾	North East Line	东北线	12	0.008219178	0.991780822
+NE3	Outram Park	欧南园	North East Line	东北线	13	0.00890411	0.99109589
+NE4	Chinatown	牛车水	North East Line	东北线	13	0.00890411	0.99109589
+NE5	Clarke Quay	克拉码头	North East Line	东北线	13	0.00890411	0.99109589
+NE6	Dhoby Ghaut	多美歌	North East Line	东北线	13	0.00890411	0.99109589
+NE7	Little India	小印度	North East Line	东北线	13	0.00890411	0.99109589
+NE8	Farrer Park	花拉公园	North East Line	东北线	13	0.00890411	0.99109589
+NE9	Boon Keng	文庆	North East Line	东北线	13	0.00890411	0.99109589
+NE10	Potong Pasir	波东巴西	North East Line	东北线	13	0.00890411	0.99109589
+NE11	Woodleigh	兀里	North East Line	东北线	13	0.00890411	0.99109589
+NE12	Serangoon	实龙岗	North East Line	东北线	13	0.00890411	0.99109589
+NE13	Kovan	高文	North East Line	东北线	13	0.00890411	0.99109589
+NE14	Hougang	后港	North East Line	东北线	13	0.00890411	0.99109589
+NE15	Buangkok	万国	North East Line	东北线	13	0.00890411	0.99109589
+NE16	Sengkang	盛港	North East Line	东北线	13	0.00890411	0.99109589
+NE17	Punggol	榜鹅	North East Line	东北线	13	0.00890411	0.99109589
+CC1	Dhoby Ghaut	多美歌	Circle Line	环线	13	0.00890411	0.99109589
+CC2	Bras Basah	百胜	Circle Line	环线	13	0.00890411	0.99109589
+CC3	Esplanade	滨海中心	Circle Line	环线	13	0.00890411	0.99109589
+CC4	Promenade	宝门廊	Circle Line	环线	15	0.010273973	0.989726027
+CC5	Nicoll Highway	尼诰大道	Circle Line	环线	14	0.009589041	0.990410959
+CC6	Stadium	体育场	Circle Line	环线	15	0.010273973	0.989726027
+CC7	Mountbatten	蒙巴登	Circle Line	环线	15	0.010273973	0.989726027
+CC8	Dakota	达科达	Circle Line	环线	14	0.009589041	0.990410959
+CC9	Paya Lebar	巴耶利峇	Circle Line	环线	14	0.009589041	0.990410959
+CC10	MacPherson	麦波申	Circle Line	环线	14	0.009589041	0.990410959
+CC11	Tai Seng	大成	Circle Line	环线	14	0.009589041	0.990410959
+CC12	Bartley	巴特礼	Circle Line	环线	14	0.009589041	0.990410959
+CC13	Serangoon	实龙岗	Circle Line	环线	13	0.00890411	0.99109589
+CC14	Lorong Chuan	罗弄泉	Circle Line	环线	13	0.00890411	0.99109589
+CC15	Bishan	碧山	Circle Line	环线	13	0.00890411	0.99109589
+CC16	Marymount	玛丽蒙	Circle Line	环线	14	0.009589041	0.990410959
+CC17	Caldecott	加利谷	Circle Line	环线	27	0.018493151	0.981506849
+CC19	Botanic Gardens	植物园	Circle Line	环线	26	0.017808219	0.982191781
+CC20	Farrer Road	花拉路	Circle Line	环线	25	0.017123288	0.982876712
+CC21	Holland Village	荷兰村	Circle Line	环线	23	0.015753425	0.984246575
+CC22	Buona Vista	波那维斯达	Circle Line	环线	14	0.009589041	0.990410959
+CC23	one-north	纬壹	Circle Line	环线	14	0.009589041	0.990410959
+CC24	Kent Ridge	肯特岗	Circle Line	环线	14	0.009589041	0.990410959
+CC25	Haw Par Villa	虎豹别墅	Circle Line	环线	8	0.005479452	0.994520548
+CC26	Pasir Panjang	巴西班让	Circle Line	环线	8	0.005479452	0.994520548
+CC27	Labrador Park	拉柏多公园	Circle Line	环线	8	0.005479452	0.994520548
+CC28	Telok Blangah	直落布兰雅	Circle Line	环线	8	0.005479452	0.994520548
+CC29	HarbourFront	港湾	Circle Line	环线	8	0.005479452	0.994520548
+CE1	Bayfront	海湾舫	Circle Line Extension	环线延长线	0	0	1
+CE2	Marina Bay	滨海湾	Circle Line Extension	环线延长线	0	0	1
+DT1	Bukit Panjang	武吉班让	Downtown Line	滨海市区线	4	0.002739726	0.997260274
+DT2	Cashew	凯秀	Downtown Line	滨海市区线	3	0.002054795	0.997945205
+DT3	Hillview	山景	Downtown Line	滨海市区线	3	0.002054795	0.997945205
+DT5	Beauty World	美世界	Downtown Line	滨海市区线	1	0.000684932	0.999315068
+DT6	King Albert Park	阿尔柏王园	Downtown Line	滨海市区线	0	0	1
+DT7	Sixth Avenue	第六道	Downtown Line	滨海市区线	0	0	1
+DT8	Tan Kah Kee	陈嘉庚	Downtown Line	滨海市区线	0	0	1
+DT9	Botanic Gardens	植物园	Downtown Line	滨海市区线	0	0	1
+DT10	Stevens	史蒂芬	Downtown Line	滨海市区线	0	0	1
+DT11	Newton	纽顿	Downtown Line	滨海市区线	0	0	1
+DT12	Little India	小印度	Downtown Line	滨海市区线	0	0	1
+DT13	Rochor	梧槽	Downtown Line	滨海市区线	0	0	1
+DT14	Bugis	武吉士	Downtown Line	滨海市区线	0	0	1
+DT15	Promenade	宝门廊	Downtown Line	滨海市区线	0	0	1
+DT16	Bayfront	海湾舫	Downtown Line	滨海市区线	0	0	1
+DT17	Downtown	市中心	Downtown Line	滨海市区线	0	0	1
+DT18	Telok Ayer	直落亚逸	Downtown Line	滨海市区线	0	0	1
+DT19	Chinatown	牛车水	Downtown Line	滨海市区线	0	0	1
+DT20	Fort Canning	福康宁	Downtown Line	滨海市区线	0	0	1
+DT21	Bencoolen	明古连	Downtown Line	滨海市区线	0	0	1
+DT22	Jalan Besar	惹兰勿刹	Downtown Line	滨海市区线	0	0	1
+DT23	Bendemeer	明地迷亚	Downtown Line	滨海市区线	0	0	1
+DT24	Geylang Bahru	芽笼峇鲁	Downtown Line	滨海市区线	0	0	1
+DT25	Mattar	玛达	Downtown Line	滨海市区线	0	0	1
+DT26	MacPherson	麦波申	Downtown Line	滨海市区线	0	0	1
+DT27	Ubi	乌美	Downtown Line	滨海市区线	0	0	1
+DT28	Kaki Bukit	加基武吉	Downtown Line	滨海市区线	0	0	1
+DT29	Bedok North	勿洛北	Downtown Line	滨海市区线	0	0	1
+DT30	Bedok Reservoir	勿洛蓄水池	Downtown Line	滨海市区线	0	0	1
+DT31	Tampines West	淡滨尼西	Downtown Line	滨海市区线	0	0	1
+DT32	Tampines	淡滨尼	Downtown Line	滨海市区线	0	0	1
+DT33	Tampines East	淡滨尼东	Downtown Line	滨海市区线	0	0	1
+DT34	Upper Changi	樟宜上段	Downtown Line	滨海市区线	0	0	1
+DT35	Expo	博览	Downtown Line	滨海市区线	0	0	1
+BP1	Choa Chu Kang	蔡厝港	Bukit Panjang LRT	武吉班让轻轨线	13	0.00890411	0.99109589
+BP2	South View	南山	Bukit Panjang LRT	武吉班让轻轨线	13	0.00890411	0.99109589
+BP3	Keat Hong	吉丰	Bukit Panjang LRT	武吉班让轻轨线	13	0.00890411	0.99109589
+BP4	Teck Whye	德惠	Bukit Panjang LRT	武吉班让轻轨线	14	0.009589041	0.990410959
+BP5	Phoenix	凤凰	Bukit Panjang LRT	武吉班让轻轨线	15	0.010273973	0.989726027
+BP6	Bukit Panjang	武吉班让	Bukit Panjang LRT	武吉班让轻轨线	11	0.007534247	0.992465753
+BP7	Petir	柏提	Bukit Panjang LRT	武吉班让轻轨线	11	0.007534247	0.992465753
+BP8	Pending	秉定	Bukit Panjang LRT	武吉班让轻轨线	12	0.008219178	0.991780822
+BP9	Bangkit	万吉	Bukit Panjang LRT	武吉班让轻轨线	12	0.008219178	0.991780822
+BP10	Fajar	法嘉	Bukit Panjang LRT	武吉班让轻轨线	11	0.007534247	0.992465753
+BP11	Segar	实加	Bukit Panjang LRT	武吉班让轻轨线	1	0.000684932	0.999315068
+BP12	Jelapang	泽拉邦	Bukit Panjang LRT	武吉班让轻轨线	1	0.000684932	0.999315068
+BP13	Senja	信佳	Bukit Panjang LRT	武吉班让轻轨线	1	0.000684932	0.999315068
+BP14	Ten Mile Junction	十里广场	Bukit Panjang LRT	武吉班让轻轨线	1	0.000684932	0.999315068
