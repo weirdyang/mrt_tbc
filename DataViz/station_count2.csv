@@ -1,0 +1,124 @@
+"","station","count","mrt_station_english","mrt_station_chinese","mrt_line_english","mrt_line_chinese","lon","lat"
+"1","BP1",13,"Choa Chu Kang","蔡厝港","Bukit Panjang LRT","武吉班让轻轨线",103.7443574,1.385168
+"2","BP10",11,"Fajar","法嘉","Bukit Panjang LRT","武吉班让轻轨线",103.770858,1.38452
+"3","BP11",1,"Segar","实加","Bukit Panjang LRT","武吉班让轻轨线",103.7695318,1.3878645
+"4","BP12",1,"Jelapang","泽拉邦","Bukit Panjang LRT","武吉班让轻轨线",103.7645554,1.3867268
+"5","BP13",1,"Senja","信佳","Bukit Panjang LRT","武吉班让轻轨线",103.762424,1.3826882
+"6","BP14",1,"Ten Mile Junction","十里广场","Bukit Panjang LRT","武吉班让轻轨线",103.7603698,1.3809506
+"7","BP2",13,"South View","南山","Bukit Panjang LRT","武吉班让轻轨线",103.745203,1.380286
+"8","BP3",13,"Keat Hong","吉丰","Bukit Panjang LRT","武吉班让轻轨线",103.748947,1.378686
+"9","BP4",14,"Teck Whye","德惠","Bukit Panjang LRT","武吉班让轻轨线",103.752907,1.376823
+"10","BP5",15,"Phoenix","凤凰","Bukit Panjang LRT","武吉班让轻轨线",103.757622,1.378468
+"11","BP6",11,"Bukit Panjang","武吉班让","Bukit Panjang LRT","武吉班让轻轨线",103.762459,1.3783155
+"12","BP7",11,"Petir","柏提","Bukit Panjang LRT","武吉班让轻轨线",103.7668108,1.3776817
+"13","BP8",12,"Pending","秉定","Bukit Panjang LRT","武吉班让轻轨线",103.7712393,1.3762396
+"14","BP9",12,"Bangkit","万吉","Bukit Panjang LRT","武吉班让轻轨线",103.7725763,1.380215
+"15","CC1",13,"Dhoby Ghaut","多美歌","Circle Line","环线",103.8454843,1.2993651
+"16","CC10",14,"MacPherson","麦波申","Circle Line","环线",103.8898817,1.3267424
+"17","CC11",14,"Tai Seng","大成","Circle Line","环线",103.8876833,1.3359176
+"18","CC12",14,"Bartley","巴特礼","Circle Line","环线",103.8802484,1.3423252
+"19","CC13",13,"Serangoon","实龙岗","Circle Line","环线",103.8735748,1.3497079
+"20","CC14",13,"Lorong Chuan","罗弄泉","Circle Line","环线",103.8646643,1.3514809
+"21","CC15",13,"Bishan","碧山","Circle Line","环线",103.8491544,1.3513087
+"22","CC16",14,"Marymount","玛丽蒙","Circle Line","环线",103.8394989,1.3485243
+"23","CC17",27,"Caldecott","加利谷","Circle Line","环线",103.8395412,1.3376585
+"24","CC19",26,"Botanic Gardens","植物园","Circle Line","环线",103.8149828,1.3221102
+"25","CC2",13,"Bras Basah","百胜","Circle Line","环线",103.8507941,1.2969443
+"26","CC20",25,"Farrer Road","花拉路","Circle Line","环线",103.8077576,1.3175815
+"27","CC21",23,"Holland Village","荷兰村","Circle Line","环线",103.7961377,1.3111325
+"28","CC22",14,"Buona Vista","波那维斯达","Circle Line","环线",103.7899986,1.3072792
+"29","CC23",14,"one-north","纬壹","Circle Line","环线",103.7874313,1.2998788
+"30","CC24",14,"Kent Ridge","肯特岗","Circle Line","环线",103.7848916,1.2924922
+"31","CC25",8,"Haw Par Villa","虎豹别墅","Circle Line","环线",103.7819544,1.2831258
+"32","CC26",8,"Pasir Panjang","巴西班让","Circle Line","环线",103.7919041,1.2760331
+"33","CC27",8,"Labrador Park","拉柏多公园","Circle Line","环线",103.8024245,1.2722052
+"34","CC28",8,"Telok Blangah","直落布兰雅","Circle Line","环线",103.8098756,1.2706894
+"35","CC29",8,"HarbourFront","港湾","Circle Line","环线",103.8209079,1.2659167
+"36","CC3",13,"Esplanade","滨海中心","Circle Line","环线",103.855381,1.293436
+"37","CC4",15,"Promenade","宝门廊","Circle Line","环线",103.8603315,1.2939799
+"38","CC5",14,"Nicoll Highway","尼诰大道","Circle Line","环线",103.8636666,1.3000484
+"39","CC6",15,"Stadium","体育场","Circle Line","环线",103.8745655,1.3025028
+"40","CC7",15,"Mountbatten","蒙巴登","Circle Line","环线",103.882547,1.3061938
+"41","CC8",14,"Dakota","达科达","Circle Line","环线",103.8880879,1.3079962
+"42","CC9",14,"Paya Lebar","巴耶利峇","Circle Line","环线",103.8931141,1.3181551
+"43","CG1",2,"Expo","博览","Changi Airport Branch Line","樟宜机场支线",103.9619976,1.3352467
+"44","CG2",10,"Changi Airport","樟宜机场","Changi Airport Branch Line","樟宜机场支线",103.988836,1.357371
+"45","DT1",4,"Bukit Panjang","武吉班让","Downtown Line","滨海市区线",103.762459,1.3783155
+"46","DT2",3,"Cashew","凯秀","Downtown Line","滨海市区线",103.7645493,1.3699218
+"47","DT3",3,"Hillview","山景","Downtown Line","滨海市区线",103.7673707,1.3630301
+"48","DT5",1,"Beauty World","美世界","Downtown Line","滨海市区线",103.775966,1.3416921
+"49","EW1",62,"Pasir Ris","巴西立","East West Line","东西线",103.9493131,1.3730873
+"50","EW10",48,"Kallang","加冷","East West Line","东西线",103.8713507,1.3114784
+"51","EW11",45,"Lavender","劳明达","East West Line","东西线",103.862951,1.3072265
+"52","EW12",46,"Bugis","武吉士","East West Line","东西线",103.8561152,1.3010989
+"53","EW13",39,"City Hall","政府大厦","East West Line","东西线",103.8519267,1.2930893
+"54","EW14",39,"Raffles Place","莱佛士坊","East West Line","东西线",103.8513365,1.2830173
+"55","EW15",41,"Tanjong Pagar","丹戎巴葛","East West Line","东西线",103.8468585,1.2764031
+"56","EW16",41,"Outram Park","欧南园","East West Line","东西线",103.8403456,1.2802649
+"57","EW17",37,"Tiong Bahru","中峇鲁","East West Line","东西线",103.8270194,1.2861934
+"58","EW18",37,"Redhill","红山","East West Line","东西线",103.8167623,1.2896276
+"59","EW19",45,"Queenstown","女皇镇","East West Line","东西线",103.8056329,1.2952659
+"60","EW2",63,"Tampines","淡滨尼","East West Line","东西线",103.9452078,1.3532156
+"61","EW20",45,"Commonwealth","联邦","East West Line","东西线",103.7982907,1.3024476
+"62","EW21",47,"Buona Vista","波那维斯达","East West Line","东西线",103.7899986,1.3072792
+"63","EW22",44,"Dover","杜弗","East West Line","东西线",103.7786532,1.311322
+"64","EW23",48,"Clementi","金文泰","East West Line","东西线",103.765206,1.3151606
+"65","EW24",38,"Jurong East","裕廊东","East West Line","东西线",103.7420909,1.3331306
+"66","EW25",37,"Chinese Garden","裕华园","East West Line","东西线",103.7325541,1.3423597
+"67","EW26",35,"Lakeside","湖畔","East West Line","东西线",103.7207253,1.3442374
+"68","EW27",45,"Boon Lay","文礼","East West Line","东西线",103.7058277,1.3385559
+"69","EW28",41,"Pioneer","先驱","East West Line","东西线",103.6968636,1.3373141
+"70","EW29",43,"Joo Koon","裕群","East West Line","东西线",103.6783178,1.3277513
+"71","EW3",55,"Simei","四美","East West Line","东西线",103.9533771,1.3431974
+"72","EW30",8,"Gul Circle","卡尔圈 站","East West Line","东西线",103.660553,1.3195052
+"73","EW31",7,"Tuas Crescent","大士弯站","East West Line","东西线",103.6490755,1.3210266
+"74","EW32",7,"Tuas West Road","大 士 西 路站","East West Line","东西线",103.6396175,1.3300485
+"75","EW33",7,"Tuas Link","大士连路站","East West Line","东西线",103.6368663,1.3403171
+"76","EW4",65,"Tanah Merah","丹那美拉","East West Line","东西线",103.9465415,1.3272329
+"77","EW5",60,"Bedok","勿洛","East West Line","东西线",103.9301725,1.3240113
+"78","EW6",59,"Kembangan","景万岸","East West Line","东西线",103.9129091,1.3210276
+"79","EW7",62,"Eunos","友诺士","East West Line","东西线",103.9028587,1.3197777
+"80","EW8",60,"Paya Lebar","巴耶利峇","East West Line","东西线",103.8931141,1.3181551
+"81","EW9",52,"Aljunied","阿裕尼","East West Line","东西线",103.882906,1.3164325
+"82","NE1",12,"HarbourFront","港湾","North East Line","东北线",103.8209079,1.2659167
+"83","NE10",13,"Potong Pasir","波东巴西","North East Line","东北线",103.8690734,1.3311575
+"84","NE11",13,"Woodleigh","兀里","North East Line","东北线",103.8704719,1.3389179
+"85","NE12",13,"Serangoon","实龙岗","North East Line","东北线",103.8735748,1.3497079
+"86","NE13",13,"Kovan","高文","North East Line","东北线",103.8853009,1.3599937
+"87","NE14",13,"Hougang","后港","North East Line","东北线",103.8924668,1.3711282
+"88","NE15",13,"Buangkok","万国","North East Line","东北线",103.8931105,1.3830715
+"89","NE16",13,"Sengkang","盛港","North East Line","东北线",103.8954161,1.3915277
+"90","NE17",13,"Punggol","榜鹅","North East Line","东北线",103.9023559,1.40517
+"91","NE3",13,"Outram Park","欧南园","North East Line","东北线",103.8403456,1.2802649
+"92","NE4",13,"Chinatown","牛车水","North East Line","东北线",103.8439312,1.2847875
+"93","NE5",13,"Clarke Quay","克拉码头","North East Line","东北线",103.846756,1.288477
+"94","NE6",13,"Dhoby Ghaut","多美歌","North East Line","东北线",103.8454843,1.2993651
+"95","NE7",13,"Little India","小印度","North East Line","东北线",103.8493919,1.3062896
+"96","NE8",13,"Farrer Park","花拉公园","North East Line","东北线",103.8548207,1.3124557
+"97","NE9",13,"Boon Keng","文庆","North East Line","东北线",103.8618306,1.3198587
+"98","NS1",92,"Jurong East","裕廊东","North South Line","南北线",103.7420909,1.3331306
+"99","NS10",94,"Admiralty","海军部","North South Line","南北线",103.800975,1.4405862
+"100","NS11",98,"Sembawang","三巴旺","North South Line","南北线",103.8201024,1.4488796
+"101","NS13",111,"Yishun","义顺","North South Line","南北线",103.834899,1.4293251
+"102","NS14",105,"Khatib","卡迪","North South Line","南北线",103.8330221,1.4173489
+"103","NS15",108,"Yio Chu Kang","杨厝港","North South Line","南北线",103.8448008,1.3817576
+"104","NS16",120,"Ang Mo Kio","宏茂桥","North South Line","南北线",103.8495876,1.3699718
+"105","NS17",117,"Bishan","碧山","North South Line","南北线",103.8491544,1.3513087
+"106","NS18",110,"Braddell","布莱德","North South Line","南北线",103.8468013,1.3404334
+"107","NS19",111,"Toa Payoh","大巴窑","North South Line","南北线",103.8470785,1.3326911
+"108","NS2",88,"Bukit Batok","武吉巴督","North South Line","南北线",103.7490636,1.3485641
+"109","NS20",105,"Novena","诺维娜","North South Line","南北线",103.8438181,1.3204301
+"110","NS21",110,"Newton","纽顿","North South Line","南北线",103.837811,1.3136071
+"111","NS22",111,"Orchard","乌节","North South Line","南北线",103.8319307,1.3045879
+"112","NS23",110,"Somerset","索美塞","North South Line","南北线",103.838529,1.3005915
+"113","NS24",109,"Dhoby Ghaut","多美歌","North South Line","南北线",103.8454843,1.2993651
+"114","NS25",104,"City Hall","政府大厦","North South Line","南北线",103.8519267,1.2930893
+"115","NS26",107,"Raffles Place","莱佛士坊","North South Line","南北线",103.8513365,1.2830173
+"116","NS27",105,"Marina Bay","滨海湾","North South Line","南北线",103.8545978,1.2764274
+"117","NS28",44,"Marina South Pier","滨海南码头","North South Line","南北线",103.8635552,1.271537
+"118","NS3",88,"Bukit Gombak","武吉甘柏","North South Line","南北线",103.7518278,1.3590369
+"119","NS4",91,"Choa Chu Kang","蔡厝港","North South Line","南北线",103.7443574,1.385168
+"120","NS5",92,"Yew Tee","油池","North South Line","南北线",103.7475,1.3973811
+"121","NS7",92,"Kranji","克兰芝","North South Line","南北线",103.7619192,1.4251684
+"122","NS8",93,"Marsiling","马西岭","North South Line","南北线",103.774119,1.4325197
+"123","NS9",99,"Woodlands","兀兰","North South Line","南北线",103.7864845,1.436955

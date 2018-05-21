@@ -4,6 +4,7 @@ from flask import Flask, render_template, request
 
 import pandas as pd
 from app import app
+import math
 
 stations_df = pd.read_csv('static/stations_prob.tsv', sep='\t', encoding='utf-8')
 
@@ -16,13 +17,13 @@ def line_select():
     lines = stations_df.mrt_line_english.unique().tolist()
     if (search_term is None):
         search_term = lines[0]
-    
+
     results = stations_df[stations_df['mrt_line_english'] == search_term]
     stations_codes = results['stn_code'].tolist()
     station_names = results['mrt_station_english'].tolist()
     stations_list = list(zip(stations_codes, station_names))
 
-    return render_template('line_select.html', lines=lines, selected_line=search_term, 
+    return render_template('line_select.html', lines=lines, selected_line=search_term,
         stations=stations_list)
 
 @app.route('/calculate', methods=["POST"])
@@ -47,6 +48,6 @@ def calculate():
     results = stations_df[stations_df['stn_code'].isin(stations)]
     for index, item in results.iterrows():
         product *= float(item['p_no_breakdown'])
-    p_delay = (1 - product)*100
+    p_delay = round((1 - product)*100,2)
 
-    return "Start {0}</br> End: {1}</br> Delay: {2}%".format(station_1, station_2, p_delay)
+    return "<b>Start</b>: {0}</br> <b>End</b>: {1}</br> <b>Probability of Delay</b>: <b><font color = \"red\" size = \"7\">{2}%</font></b>".format(station_1, station_2, p_delay)
