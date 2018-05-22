@@ -1,0 +1,429 @@
+,id,created_at,full_text,Station1,Station1_Index,Station2,Station2_Index,Line1,Line2
+6,9.86E+17,18/4/2018,"[EWL] UPDATE: Due to a track fault, train service between #Tampines and #PasirRis will be delayed for 20mins. Free regular bus svcs between #Tampines and #PasirRis is available.",pasir ris,EW1,tampines,EW2,EWL,NA
+12,9.83E+17,9/4/2018,"[EWL] UPDATE: Due to a track fault, pls add 10mins train travel time from #Clementi to #JooKoon towards #JooKoon. We are working to recover svc.",clementi,EW23,joo koon,EW29,EWL,NA
+15,9.83E+17,9/4/2018,"[EWL] UPDATE: Due to a track fault, pls add 25mins train travel time from #JurongEast to #JooKoon towards #JooKoon. We are working to recover svc.",jurong east,NS1,joo koon,EW29,EWL,NA
+17,9.83E+17,8/4/2018,"[EWL] UPDATE: Due to a track fault, pls add 20mins train travel time from #JurongEast to #JooKoon towards #JooKoon.",jurong east,NS1,joo koon,EW29,EWL,NA
+24,9.66E+17,19/2/2018,Track improvement works in the North-South Line southbound tunnel near #RafflesPlace are expected to complete by Mar.Pls add up to 15mins train travel time towards #MarinaSouthPier.We seek your understanding as we improve the infrastructure in our network. https://t.co/0gE90xXAYK,marina south pier,NS28,raffles place,NS26,NSL,NA
+26,9.65E+17,19/2/2018,"[NSL] UPDATE: Due to on going track improvement work, please add 10mins train travel time from #AngMoKio to #RafflesPlace.",ang mo kio,NS16,raffles place,NS26,NSL,NA
+30,9.64E+17,14/2/2018,"[NSL Update]: Due to maintenance work, trains are travelling slower near #RafflesPlace. Please add 10mins additional train travel time from #AngMoKio to #Raffles Place before 10am on Wed, 14 Feb.",ang mo kio,NS16,raffles place,NS26,NSL,NA
+31,9.64E+17,13/2/2018,"[NSL]: Due to maintenance work, south-bound trains are travelling slower near #RafflesPlace. Please add 20mins additional train travel time from #AngMoKio to #RafflesPlace before 10am on Wed, 14 Feb.",ang mo kio,NS16,raffles place,NS26,NSL,NA
+33,9.61E+17,7/2/2018,"[NSL] UPDATE: Due to on going track improvement work, please add 5mins train travel time from #AngMoKio to #RafflesPlace.",ang mo kio,NS16,raffles place,NS26,NSL,NA
+36,9.61E+17,7/2/2018,"[NSL]: Due to a signalling fault, pls add 15mins train travel time from #AngMoKio to #RafflesPlace towards #MarinaSouthPier.",marina south pier,NS28,ang mo kio,NS16,NSL,NA
+40,9.54E+17,18/1/2018,[BPLRT]: No train service between #ChoaChuKang and #Phoenix due to a train fault.  Free bridging bus services available across BPLRT.  Free regular bus services available at affected stations.,phoenix,BP5,choa chu kang,NS4,BPL,NA
+48,9.51E+17,10/1/2018,"[EWL]: Due to a track fault, pls add 20mins train travel time from #OutramPark to #Bugis towards #PasirRis. Free regular bus svcs btwn #OutramPark and #Bugis. Our station staff will assist.",outram park,EW16,pasir ris,EW1,EWL,NA
+52,9.48E+17,2/1/2018,"[EWL] UPDATE: Fault cleared, train services are progressively being restored. Pls add 10mins train travel time btwn #TanahMerah and #ChangiAirport.",changi airport,CG2,tanah merah,EW4,EWL,NA
+54,9.48E+17,1/1/2018,"[EWL]: Track signalling fault recurred, pls add 20mins train travel time btwn #TanahMerah and #ChangiAirport.",changi airport,CG2,tanah merah,EW4,EWL,NA
+66,9.45E+17,25/12/2017,[NSL]UPDATE:Train services resumed. Pls expect add 20mins train travel time btwn  #ChoaChuKang and #Woodlands. Free regular bus services are still available between #ChoaChuKang and #Woodlands.,choa chu kang,NS4,woodlands,NS9,NSL,NA
+67,9.45E+17,25/12/2017,"[NSL]: Due to a signalling fault at Yew Tee station, train services btwn #ChoaChuKang and #Woodlands will be delay for about 30 mins. Free regular bus service is available between #Choa Chu Kang and #Woodlands.",choa chu kang,NS4,yew tee,NS5,NSL,NA
+76,9.39E+17,6/12/2017,"[EWL]: Due to a train fault, there is no train svc btwn #BoonLay and #GulCircle.",boon lay,EW27,gul circle,EW30,EWL,NA
+81,9.31E+17,17/11/2017,"[EWL]: Train svcs btwn #JooKoon &amp; #TuasLink will continue to be suspended till Sun, 19 Nov. Free regular &amp; bridging bus svcs will be avail btwn #JooKoon &amp; #TuasLink all day. Plan your journey &amp; cater for additional train travel time. Alternative transport: https://t.co/4Qu9aPQESU",tuas link,EW33,joo koon,EW29,EWL,NA
+82,9.31E+17,16/11/2017,[EWL]: Train svcs btwn #JooKoon &amp; #TuasLink will continue to be suspended tmr. Free regular &amp; bridging bus svcs will be avail btwn #JooKoon &amp; #TuasLink all day tmr. Plan your journey early &amp; cater for additional train travel time on EWL. Other transport: https://t.co/LmN15nP6k6.,tuas link,EW33,joo koon,EW29,EWL,NA
+86,9.31E+17,15/11/2017,"[NSL] UPDATE: Due to fewer trains serving the NSL tmr, pls add 40mins train travel time. Free bridging bus svcs from #Yishun to #MarinaSouthPier (one way) and free regular bus svcs between #Yishun and #MarinaSouthPier (both directions) are avail from the start of train service.",marina south pier,NS28,yishun,NS13,NSL,NA
+87,9.31E+17,15/11/2017,[EWL]UPDATE:Train svcs btwn #JooKoon &amp; #TuasLink will be suspended tmr. Free regular bus &amp; bridging bus svcs will be avail btwn #JooKoon &amp; #TuasLink all day tmr. Plan your journey early &amp; cater for additional train travel time on EWL.Alternative transport:https://t.co/LmN15nP6k6.,tuas link,EW33,joo koon,EW29,EWL,NA
+89,9.31E+17,15/11/2017,[NSL] UPDATE: Pls add 40 mins train travel time when commuting on the NSL. Free bridging bus services from #Bishan to #Yishun (one way) and free regular bus services btwn #Bishan and #Yishun (both directions) are still avail. Commuters are advised to take alternative train lines.,yishun,NS13,bishan,NS17,NSL,NA
+95,9.31E+17,15/11/2017,[EWL] UPDATE: Please add 10 mins train travel time between #BoonLay and #TuasLink. Free regular bus services are still available between #JurongEast and #TuasLink.,jurong east,NS1,tuas link,EW33,EWL,NA
+102,9.31E+17,15/11/2017,"[CCL] CLEARED: Fault cleared but trains and stations are crowded. Due to congestion, pls add 5mins travel time towards #HarbourFront. Free regular bus service still available.",dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+103,9.31E+17,15/11/2017,[EWL]: Pls add 20mins train travel time btwn #JurongEast and #JooKoon due to a train fault at #JooKoon. Train svc is available.,jurong east,NS1,joo koon,EW29,EWL,NA
+108,9.31E+17,14/11/2017,[CCL]: Due to a Signal fault between #Farrer Road and # Buona Vista .Pls add 20mins train travel time between #Buona Vista and HarbourFornt on both bounds.,buona vista,EW21,farrer road,CC20,CCL,NA
+112,9.29E+17,10/11/2017,[EWL] UPDATE: No train service from #Bugis to #TanahMerah towards #PasirRis due to a train fault at #Aljunied until the end of train service. We are sorry that your journey this evening has been affected.,pasir ris,EW1,bugis,EW12,EWL,NA
+115,9.29E+17,10/11/2017,"[EWL]:Due to a train fault,pls add one hour train travel time from #TiongBahru to #PasirRis.Not linked to new signalling project.",pasir ris,EW1,tiong bahru,EW17,EWL,NA
+119,9.29E+17,10/11/2017,"[EWL]:Due to a train fault,pls add 30min train travel time from #Bugis to #Queenstown towards #TuasLink.Not linked to new signalling project",tuas link,EW33,queenstown,EW19,EWL,NA
+123,9.29E+17,9/11/2017,"[NSL]:Due to a train fault, pls add 20mins train travel time from #Yishun to #AngMoKio. (Not linked to new signalling project).",yishun,NS13,ang mo kio,NS16,NSL,NA
+126,9.27E+17,4/11/2017,"[EWL]: Due to a track point fault, pls add 10mins train travel time from #Queenstown to #JurongEast. (Not linked to new signalling project).",jurong east,NS1,queenstown,EW19,EWL,NA
+133,9.24E+17,26/10/2017,"[NSL]: Due to a track fault, pls add 20mins train travel time from #AngMoKio to #Bishan towards #MarinaSouthPier.",marina south pier,NS28,ang mo kio,NS16,NSL,NA
+135,9.23E+17,25/10/2017,[NSL] UPDATE: Please add 10mins train travel time from #Yishun to #ToaPayoh. Free bus &amp; bridging bus services are available.,toa payoh,NS19,yishun,NS13,NSL,NA
+137,9.23E+17,24/10/2017,"[NSL] UPDATE: Due to a track fault, trains to city will travel slower btwn #AngMoKio &amp; #Bishan. Free bus and bridging bus svcs are avail.",ang mo kio,NS16,bishan,NS17,NSL,NA
+138,9.23E+17,24/10/2017,"[NSL]: Due to a track fault, pls add 20mins train travel time from #Yishun to #ToaPayoh SouthBound. (Not linked to new signalling project).",toa payoh,NS19,yishun,NS13,NSL,NA
+162,9.17E+17,7/10/2017,[NSL] UPDATE: No train svc btwn #AngMoKio and #ToaPayoh due to a track fault at #Bishan.,toa payoh,NS19,ang mo kio,NS16,NSL,NA
+163,9.17E+17,7/10/2017,"[NSL] Due to a track fault, there is no train svc from #Bishan to #ToaPayoh towards #MarinaSouthPier. (Not linked to new signalling project)",toa payoh,NS19,marina south pier,NS28,NSL,NA
+166,9.16E+17,4/10/2017,"[NSL]: Due to an earlier train fault on the new signalling system, pls add 10 mins train travel time btwn #ChoaChuKang and #JurongEast.",jurong east,NS1,choa chu kang,NS4,NSL,NA
+170,9.13E+17,28/9/2017,[EWL] UPDATE: Train svcs are progressively being restored. Pls add 10mins train travel time btwn #TanahMerah and #PasirRis.,pasir ris,EW1,tanah merah,EW4,EWL,NA
+173,9.13E+17,27/9/2017,[EWL] UPDATE: Train svcs has resumed. Pls add 20mins travel time btwn #TanahMerah and #PasirRis due to track point fault.,pasir ris,EW1,tanah merah,EW4,EWL,NA
+174,9.13E+17,27/9/2017,"[EWL]:Due to track point fault,pls expect 30mins delay train travel time btwn Tampines &amp; PasirRis.(Not linked to new signalling project).",pasir ris,EW1,tampines,EW2,EWL,NA
+183,9.09E+17,15/9/2017,"[NSL]: Due to a signalling fault on the new signalling system, pls add 20mins train travel time btwn #MarinaSouthPier and #ToaPayoh.",toa payoh,NS19,marina south pier,NS28,NSL,NA
+189,9.07E+17,11/9/2017,[CCL Update] Pls add 30mins additional travelling time from #PayaLebar to   #BuonaVista due to train fault. Free Regular bus available.,paya lebar,EW8,buona vista,EW21,CCL,NA
+195,9.06E+17,9/9/2017,[BPLRT] UPDATE: No train service on Service A and B due to train fault. Free bus bridging services are available.,choa chu kang,BP1,fajar,BP10,BPL,NA
+203,9.03E+17,31/8/2017,[NSL] UPDATE: Pls add 15mins train travel time from #JurongEast to #Yishun. We are working to recover svc.,jurong east,NS1,yishun,NS13,NSL,NA
+207,9.03E+17,30/8/2017,[EWL] UPDATE: Additional train travel time reduced to 5mins from #JurongEast to #Redhill due to a track fault. Train svc is available.,jurong east,NS1,redhill,EW18,EWL,NA
+211,9.00E+17,23/8/2017,[NSL] UPDATE: Pls expect slightly longer train travel time between #YewTee and #JurongEast on the NSL this evening.,jurong east,NS1,yew tee,NS5,NSL,NA
+216,9.00E+17,22/8/2017,"[NSL]: Due to a track fault, pls add 15mins train travel time from #YewTee to #JurongEast. (Not linked to new signalling project).",jurong east,NS1,yew tee,NS5,NSL,NA
+220,8.98E+17,18/8/2017,"[NSL]: If you intend to travel on the North-South Line later, pls plan ahead. You may experience longer train travel time.",jurong east,NS1,marina south pier,NS28,NSL,NA
+222,8.98E+17,18/8/2017,[NSL]UPDATE:Pls add 15mins train travel time btwn #MarinaSouthPier and #Sembawang.Free regular bus &amp; free bridging bus svcs are still avail.,sembawang,NS11,marina south pier,NS28,NSL,NA
+227,8.98E+17,17/8/2017,"[NSL]UPDATE:Pls add 45mins train travel time between #MarinaSouthPier &amp; #Sembawang,due to a signalling system fault.Train svc is available.",sembawang,NS11,marina south pier,NS28,NSL,NA
+229,8.98E+17,17/8/2017,"[NSL]: Due to a New Signalling System fault near Ang Mo Kio, pls add 30mins travel time btwn #sembawang &amp; #Marina South Pier.",sembawang,NS11,ang mo kio,NS16,NSL,NA
+231,8.98E+17,17/8/2017,"[NSL]UPDATE:Pls add 15mins train travel time between #MarinaSouthPier &amp; #Yishun,due to a new signalling system fault.Train svc is available.",marina south pier,NS28,yishun,NS13,NSL,NA
+239,8.96E+17,12/8/2017,"BPLRT: Due to train fault, Service B temporarily suspended.  Only Service A running.",choa chu kang,BP1,fajar,BP10,BPL,NA
+243,8.90E+17,27/7/2017,"BPLRT: Due to train fault, only Service B still running. Service A affected",choa chu kang,BP1,fajar,BP10,BPL,NA
+253,8.90E+17,25/7/2017,"[EWL] UPDATE: Due to an earlier track circuit fault at #Commonwealth, pls add 25 mins train travel time from #JooKoon to #TiongBahru.",tiong bahru,EW17,commonwealth,EW20,EWL,NA
+254,8.90E+17,25/7/2017,"[EWL]: Due to an earlier track circuit fault at #Commonwealth, pls add 20 mins train travel time from #JooKoon to #Commonwealth.",commonwealth,EW20,joo koon,EW29,EWL,NA
+260,8.90E+17,25/7/2017,[NSEWL] UPDATE: Trains are running at longer intervals due to intermittent power fault. Our engineers are carrying out checks.,jurong east,NS1,marina south pier,NS28,NSL,NA
+260,8.90E+17,25/7/2017,[NSEWL] UPDATE: Trains are running at longer intervals due to intermittent power fault. Our engineers are carrying out checks.,pasir ris,EW1,tuas link,EW33,EWL,NA
+262,8.90E+17,24/7/2017,Trains running at longer intervals due to intermittent power fault on NSEWL. Crowds expected at stations.,jurong east,NS1,marina south pier,NS28,NSL,NA
+262,8.90E+17,24/7/2017,Trains running at longer intervals due to intermittent power fault on NSEWL. Crowds expected at stations.,pasir ris,EW1,tuas link,EW33,EWL,NA
+268,8.88E+17,21/7/2017,"[EWL]:Due to a track fault(not related to new signalling system),Pls add 15mins travel time from #Clementi to #TanjongPagar towards PasirRis",tanjong pagar,EW15,pasir ris,EW1,EWL,NA
+271,8.88E+17,20/7/2017,[BPLRT] No train service betwn #ChoaChuKang to #BukitPanjang due to a train fault. Free regular bus &amp; bus bridging services are available.,bukit panjang,DT1,choa chu kang,BP1,BPL,NA
+274,8.85E+17,12/7/2017,[NSL] UPDATE: No train service between #JurongEast &amp; #ChoaChuKang due to a power fault. Free bus bridging services are available.,jurong east,NS1,choa chu kang,NS4,NSL,NA
+277,8.85E+17,12/7/2017,"[NSL] No train service between #JurongEast &amp; #Kranji, #Queenstown &amp; #tuaslink due to a power fault. Est resumption time: 00:30am.",jurong east,NS1,tuas link,EW33,NSL,NA
+279,8.85E+17,12/7/2017,"[EWL]UPDATE:Pls add 5 mins travel time from #JooKoon towards #Clementi,due to a track circuit fault at #JurongEast. Train svc is available.",jurong east,NS1,clementi,EW23,EWL,NA
+280,8.85E+17,12/7/2017,"[EWL]: Due to a track circuit fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is available.",clementi,EW23,pasir ris,EW1,EWL,NA
+285,8.84E+17,10/7/2017,[EWL] UPDATE: Pls cater 15 mins additional travel time between #Queenstown &amp; #Bugis. We are working to recover service.,queenstown,EW19,bugis,EW12,EWL,NA
+292,8.83E+17,7/7/2017,[NSL] UPDATE: Pls cater 10mins additional travel time between #Woodlands &amp; #JurongEast. We are working to recover service.,jurong east,NS1,woodlands,NS9,NSL,NA
+296,8.83E+17,5/7/2017,"[EWL]UPDATE:Pls add 10 mins travel time from #JurongEast to #JooKoon,due to an earlier train fault at #JooKoon. Train svc is available.",jurong east,EW24,joo koon,EW29,EWL,NA
+299,8.81E+17,30/6/2017,"[NSL]UPDATE:Pls add 10mins travel time from #Woodlands to #AngMoKio, due to a track point fault at #AngMoKio. Train svc is still available.",ang mo kio,NS16,woodlands,NS9,NSL,NA
+301,8.81E+17,29/6/2017,"[NSL]UPDATE: Pls add 10mins travel time from #Woodlands to #AngMoKio, due to a track point fault at #AngMoKio. Train svc is still available.",ang mo kio,NS16,woodlands,NS9,NSL,NA
+310,8.80E+17,28/6/2017,[NSL] UPDATE: Please add about 15 mins travel time on the #NSL. Train services between #JUR and #MSP are running both bounds.,jurong east,NS1,marina south pier,NS28,NSL,NA
+323,8.75E+17,14/6/2017,"[EWL]UPDATE: Due to a track circuit fault at #BuonaVista,pls add 5mins travel time from #Redhill to #Dover,train svc is still available.",redhill,EW18,buona vista,EW21,EWL,NA
+325,8.75E+17,14/6/2017,"[EWL]UPDATE: Due to a track circuit fault at #BuonaVista,pls add 10mins travel time from #CityHall to #Dover,train svc is still available.",buona vista,EW21,city hall,NS25,EWL,NA
+326,8.75E+17,14/6/2017,[EWL] UPDATE:  Pls cater 10 mins additional travel time from #CityHall to #Dover.We are working to recover service.,city hall,NS25,dover,EW22,EWL,NA
+340,8.74E+17,12/6/2017,[NSL]UPDATE: Pls expect 10mins travel time btw #ChoaChuKang &amp; #JurongEast due to signalling system fault. Train service is still available.,jurong east,NS1,choa chu kang,NS4,NSL,NA
+348,8.71E+17,2/6/2017,[NSL] UPDATE:Fault cleared.Train svcs are progressively returning to normal. Pls expect 10mins additional travel time btw #Yishun &amp; #YewTee.,yishun,NS13,yew tee,NS5,NSL,NA
+361,8.71E+17,2/6/2017,"[NSL] Due to new signalling system checks, pls add 15mins travel time between #MarinaSouthPier &amp; #JurongEast both bounds. We are sorry.",jurong east,NS1,marina south pier,NS28,NSL,NA
+364,8.70E+17,1/6/2017,[NSL]UPDATE:Trains are progressively returning to normal speed.Pls expect 15mins additional travel time btwn #MarinaSouthPier &amp; #JurongEast.,jurong east,NS1,marina south pier,NS28,NSL,NA
+388,8.60E+17,3/5/2017,[NSL]UPDATE: Pls add 10min travel time from #AngMoKio to #MarinaSouthPier due to a train signalling fault. Train service is still available.,marina south pier,NS28,ang mo kio,NS16,NSL,NA
+399,8.55E+17,20/4/2017,"[NSL] UPDATE: No train service between #Yishun &amp; #Bishan,due to a train fault at #Khatib.Est resumption time extended to 06.00am.",yishun,NS13,khatib,NS14,NSL,NA
+404,8.54E+17,18/4/2017,"[NSL]UPDATE: Please add 5mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",khatib,NS14,bishan,NS17,NSL,NA
+411,8.54E+17,18/4/2017,[EWL] UPDATE: Pls cater 5 mins additional travel time from #PayaLebar to #Simei. We are working to recover service.,paya lebar,EW8,simei,EW3,EWL,NA
+425,8.54E+17,18/4/2017,"[EWL]: Due to a track fault, pls add 10 mins travel time from #PayaLebar to #Simei towards #PasirRis. Train service is still available.",paya lebar,EW8,pasir ris,EW1,EWL,NA
+428,8.54E+17,17/4/2017,"[NSL]UPDATE:Pls add 15mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",khatib,NS14,bishan,NS17,NSL,NA
+430,8.54E+17,17/4/2017,"[NSL]: Due to a track fault, pls add 10mins travel time from #Bishan to #Khatib towards #JurongEast. Train service is still available.",jurong east,NS1,khatib,NS14,NSL,NA
+436,8.52E+17,11/4/2017,"[EWL]UPDATE:Train fault cleared , trains are progressively returning to normal speed. Pls add 10mins travel time btwn #JooKoon &amp; #Queenstown",queenstown,EW19,joo koon,EW29,EWL,NA
+438,8.52E+17,10/4/2017,"[EWL]: Due to a train fault, pls add 25mins travel time between #JooKoon &amp; #Queenstown. Train service is still available.",queenstown,EW19,joo koon,EW29,EWL,NA
+441,8.51E+17,10/4/2017,[EWL] UPDATE: Pls cater 5 mins additional travel time from #Bugis to #TanahMerah. We are working to recover service.,bugis,EW12,tanah merah,EW4,EWL,NA
+444,8.51E+17,10/4/2017,"[EWL]: Due to a Platform Screen Door fault at Bedok, pls add 10 mins travel time from #Bugis to #TanahMerah towards #PasirRis.",pasir ris,EW1,bugis,EW12,EWL,NA
+453,8.49E+17,3/4/2017,"[NSL]: Due to a train fault, pls add 30mins travel time from #Yishun to #Bishan towards #MarinaSouthPier. Train service is still available.",marina south pier,NS28,yishun,NS13,NSL,NA
+456,8.48E+17,30/3/2017,"[NSL]: Due to a train fault, pls add 10mins travel time from #JurongEast to #ChoaChuKang towards #MarinaSouthPier.",jurong east,NS1,marina south pier,NS28,NSL,NA
+460,8.47E+17,30/3/2017,[EWL] UPDATE: Pls cater 20 mins additional travel time from #PasirRis towards #PayaLebar. We are working to recover service.,paya lebar,EW8,pasir ris,EW1,EWL,NA
+466,8.47E+17,28/3/2017,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls add 10mins travel time from #Bishan to #Sembawang.",sembawang,NS11,bishan,NS17,NSL,NA
+475,8.47E+17,28/3/2017,"[NSL]: Due to a signalling fault,pls add 15mins travel time from#Bishan to #Sembawang towards #JurongEast.Train service is still available.",jurong east,NS1,sembawang,NS11,NSL,NA
+481,8.42E+17,15/3/2017,"[EWL]: Due to a train fault, pls add 25 mins travel time from #PasirRis to #TanahMerah towards #JooKoon. Train service is still available.",pasir ris,EW1,tanah merah,EW4,EWL,NA
+489,8.35E+17,23/2/2017,"[EWL]: Due to a train fault, train service between #JooKoon &amp; #Lakeside will delay for 20 minutes.",lakeside,EW26,joo koon,EW29,EWL,NA
+497,8.31E+17,13/2/2017,[NSL]UPDATE: Free regular bus is available between #Woodlands and #Yishun in both direction due to a train fault at #Admiralty,admiralty,NS10,yishun,NS13,NSL,NA
+498,8.31E+17,12/2/2017,[NSL]: Pls add 20mins travelling time from #JurongEast to #AngMoKio towards #MarinaSouthPier due to a train fault.,jurong east,NS1,marina south pier,NS28,NSL,NA
+500,8.31E+17,11/2/2017,"[EWL] UPDATE: Due to an earlier track fault, pls add 10mins travel time between #BoonLay &amp; #JooKoon.",boon lay,EW27,joo koon,EW29,EWL,NA
+511,8.30E+17,10/2/2017,[BPLRT] Train services on BPLRT affected due to a train fault. Free regular bus services are available along BPLRT.,choa chu kang,BP1,fajar,BP10,BPL,NA
+519,8.30E+17,10/2/2017,"[NSL]:Due to a train fault,pls add 30mins travel time from Newton to MarinaSouthPier towards MarinaSouthPier.Trn service is still available.",marina south pier,NS28,newton,NS21,NSL,NA
+521,8.29E+17,7/2/2017,"[EWL]UPDATE:Pls add 10 mins travel time from #JurongEast towards #JooKoon,due to a track work at #JooKoon. Train svc is still available",jurong east,NS1,joo koon,EW29,EWL,NA
+529,8.24E+17,23/1/2017,"[EWL]UPDATE:Pls add 10 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",jurong east,NS1,clementi,EW23,EWL,NA
+540,8.23E+17,23/1/2017,"[EWL]: Due to a track fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is still available.",clementi,EW23,pasir ris,EW1,EWL,NA
+543,8.22E+17,19/1/2017,"[EWL]UPDATE:Track fault cleared,trains are progressively returning to normal speed.Pls add 10mins travel time from #JooKoon towards#Clementi",clementi,EW23,joo koon,EW29,EWL,NA
+549,8.22E+17,18/1/2017,"[EWL]: Due to a track fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is still available.",clementi,EW23,pasir ris,EW1,EWL,NA
+551,8.20E+17,13/1/2017,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls add 10mins travel time from #CityHall to #AngMoKio.",ang mo kio,NS16,city hall,NS25,NSL,NA
+555,8.16E+17,4/1/2017,[EWL]UPDATE: Pls expect 15mins travel time fr #BoonLay to #Clementi towards #PasirRis due to track fault. Train service is still available.,clementi,EW23,pasir ris,EW1,EWL,NA
+556,8.16E+17,4/1/2017,[EWL]UPDATE: Trains are running slower due to track fault near #Clementi. Train service is still available.,clementi,EW23,NA,NA,EWL,NA
+557,8.16E+17,3/1/2017,"[EWL]: Due to a track fault, pls add 10 mins travel time from #BoonLay to #Clementi towards #PasirRis. Train service is still available.",clementi,EW23,pasir ris,EW1,EWL,NA
+561,8.12E+17,23/12/2016,[EWL] UPDATE: Pls add 10 mins travel time from #TanahMerah towards #JooKoon. We are working to recover service. Train svc still available.,tanah merah,EW4,joo koon,EW29,EWL,NA
+562,8.12E+17,22/12/2016,"[EWL]UPDATE:Due to a track fault at #Eunos, Pls add 10 mins travel time from #TanahMerah towards #JooKoon. Train svc is still available.",eunos,EW7,tanah merah,EW4,EWL,NA
+569,8.12E+17,22/12/2016,[EWL] No train service between #OutramPark &amp; #Aljunied due to a traction power fault near #Bugis.,outram park,EW16,aljunied,EW9,EWL,NA
+571,8.12E+17,22/12/2016,"[EWL]: Due to a track fault, pls add 5 mins travel time from #Aljunied to #Eunos towards #PasirRis. Train service is still available.",eunos,EW7,pasir ris,EW1,EWL,NA
+572,8.12E+17,22/12/2016,"[EWL]: Due to a track fault, pls add 10 mins travel time from #OutramPark to #Eunos towards #PasirRis. Train service is still available.",eunos,EW7,outram park,EW16,EWL,NA
+575,8.09E+17,14/12/2016,"[EWL]UPDATE:Fault cleared , trains are progressively returning to normal speed. Pls add 10mins travel time btwn #PasirRis &amp; #OutramPark.",outram park,EW16,pasir ris,EW1,EWL,NA
+580,8.06E+17,6/12/2016,"[EWL]: Due to a track fault near JurongEast, pls add 10 mins travel time from #CityHall to #JurongEast. Train service is still available.",jurong east,NS1,city hall,NS25,EWL,NA
+584,8.06E+17,6/12/2016,[EWL] CLEARED: Train services between #BoonLay &amp; #JooKoon have resumed. Pls add 10mins travel time btwn #JurongEast &amp; #JooKoon.,jurong east,NS1,boon lay,EW27,EWL,NA
+588,8.00E+17,18/11/2016,"[EWL]UPDATE:Pls add 5 mins travel time from #TanahMerah towards #JooKoon,due to a track fault at #Lavender. Train svc is still available",lavender,EW11,tanah merah,EW4,EWL,NA
+589,8.00E+17,18/11/2016,"[EWL]: Due to a track fault, pls add 10 mins travel time from #Tanah Merah to #Bugis towards #Joo Koon. Train service is still available.",tanah merah,EW4,bugis,EW12,EWL,NA
+593,7.94E+17,3/11/2016,"Due to intermittent signal interference, CCL trains may experience delays. For safety, CCL trains are manned this morning. We are sorry.",dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+602,7.94E+17,2/11/2016,"[EWL]No train service from #Queenstown to #Outram Park towards PasirRis,due to a train fault at #TiongBharu.Est resumption time: 18:10hrs.",outram park,EW16,pasir ris,EW1,EWL,NA
+619,7.94E+17,1/11/2016,"[CCL] CLEARED: Fault cleared but trains and stations are crowded. Due to   congestion, pls add 10mins travel time towards #DhobyGhaut.",dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+625,7.91E+17,27/10/2016,"[EWL]Update:Due to a track fault, pls add 5 mins travel time from #PasirRis to #Bugis towards #JooKoon. Train service is still available.",pasir ris,EW1,bugis,EW12,EWL,NA
+640,7.91E+17,26/10/2016,[BPLRT] Due to a train fault between #BukitPanjang &amp; #Phoenix. BPLRT train svc will be delayed for 30 mins. We are working to recover svc.,phoenix,BP5,bukit panjang,DT1,BPL,NA
+644,7.89E+17,20/10/2016,"[EWL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls cater 10mins travel time from #Queenstown to #JurongEast.",jurong east,NS1,queenstown,EW19,EWL,NA
+649,7.88E+17,18/10/2016,[EWL]UPDATE:Additional travel time has been reduced to 5mins from #TanahMerah to #Bugis. Train svc is still available.,bugis,EW12,tanah merah,EW4,EWL,NA
+656,7.84E+17,6/10/2016,[EWL] UPDATE: Pls cater 10 mins additional travel time from #OutramPark to #Eunos towards Pasir Ris. We are working to recover service.,eunos,EW7,outram park,EW16,EWL,NA
+657,7.84E+17,6/10/2016,[EWL]: UPDATE: Please expect additional 15mins traveling time from Outram Park to Eunos due to track fault near Paya Lebar.,eunos,EW7,paya lebar,EW8,EWL,NA
+677,7.81E+17,27/9/2016,[BPLRT] No train service between #ChoaChuKang and #BukitPanjang in both directions due to a power fault.,bukit panjang,DT1,choa chu kang,NS4,BPL,NA
+685,7.78E+17,20/9/2016,[CCL] Update: Estimate 10mins additional travelling time from #DhobyGhaut to #Bishan towards #HarbourFront due to track fault.,harbourfront,NE1,dhoby ghaut,NS24,CCL,NA
+690,7.78E+17,19/9/2016,[CCL] Update: Estimate 10mins additional travelling time from #DhobyGhaut to #MacPherson towards #HarbourFront due to track fault.,harbourfront,NE1,dhoby ghaut,NS24,CCL,NA
+693,7.78E+17,19/9/2016,[CCL]: Estimate 5mins additional travelling time from #PayaLebar to #MacPherson towards #HarbourFront due to track fault.,paya lebar,EW8,harbourfront,NE1,CCL,NA
+697,7.73E+17,5/9/2016,[CCL] Update: Estimate 5mins additional travelling time from #PayaLebar to #MacPherson towards #HarbourFront due to track fault.,paya lebar,EW8,harbourfront,NE1,CCL,NA
+702,7.71E+17,1/9/2016,"[CCL] Due to intermittent signalling issues, train may have longer dwell times at stations. Pls cater for longer travel time.",dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+706,7.71E+17,31/8/2016,"[CCL] Due to intermittent signalling issues, train may have longer dwell times at stations. Pls cater for longer travel time.",dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+726,7.70E+17,30/8/2016,"[NSL]:Due to congestion,estimate 10mins additional travel time between WDL &amp; JUR.Free regular bus is still available between WDL &amp; JUR.",woodlands,NS9,jurong east,NS1,NSL,NA
+732,7.70E+17,29/8/2016,"[NSL]:Fault cleared but trains &amp; stations are still crowded.Due to congestion,estimate 20mins additional travel time between WDL &amp; JUR.",woodlands,NS9,jurong east,NS1,NSL,NA
+739,7.70E+17,29/8/2016,[NSL]: No train service from #YewTee to #BukitGombak due to track fault until 6:15AM.Free bus service is available.,bukit gombak,NS3,yew tee,NS5,NSL,NA
+743,7.65E+17,16/8/2016,[NSL]Update: Estimate 5 mins additional travel time from #MarinaSouthPier to #Braddell towards #JurongEast due to earlier track fault.,jurong east,NS1,marina south pier,NS28,NSL,NA
+744,7.65E+17,16/8/2016,[NSL]UPDATE: Expect longer travelling time along NS line in the direction towards JurongEast due to track fault near Braddell.,jurong east,NS1,braddell,NS18,NSL,NA
+748,7.64E+17,11/8/2016,"[EWL] UPDATE: Due to earlier track fault, pls expect additional 15 mins traveling time between #BoonLay &amp; #JooKoon.",boon lay,EW27,joo koon,EW29,EWL,NA
+754,7.62E+17,6/8/2016,"[NSEW]Update Estimated10 mins additional traveling time from Yishun to Bishan, towards Marina South Pier due to a track fault.",marina south pier,NS28,yishun,NS13,NSL,NA
+757,7.60E+17,2/8/2016,[NSL] UPDATE: Our engineers are attending to a track fault.,jurong east,NS1,marina south pier,NS28,NSL,NA
+764,7.60E+17,2/8/2016,[EWL] UPDATE: No train service between #BoonLay and #JooKoon due to a track fault. Expected resumption time: 9:30am.,boon lay,EW27,joo koon,EW29,EWL,NA
+767,7.60E+17,2/8/2016,[NSL]: Estimate 10 mins additional travelling time between #Yishun and #Woodlands due to a track fault.,yishun,NS13,woodlands,NS9,NSL,NA
+777,7.58E+17,26/7/2016,"[NSL] DELAY: Due to a train fault near Marina Bay, there is no train service between Marina Bay and Marina South Pier for 20 mins.",marina bay,NS27,marina south pier,NS28,NSL,NA
+781,7.58E+17,25/7/2016,"[EWL]Due to sleeper replacement work, train service between TanahMerah &amp; PasirRis and TanahMerah &amp; ChangiAirport will be delayed for 30mins.",pasir ris,EW1,changi airport,CG2,EWL,NA
+784,7.56E+17,20/7/2016,[NSL] UPDATE: No train service between #MarinaBay and #MarinaSouthPier due to a train fault. Expected resumption time: 8.05am.,marina bay,NS27,marina south pier,NS28,NSL,NA
+788,7.56E+17,20/7/2016,Trains will be traveling slower from Cityhall to JooKoon due to an earlier train fault at Buona Vista Westbound,joo koon,EW29,buona vista,EW21,EWL,NA
+791,7.53E+17,13/7/2016,[NSL] UPDATE: Estimate 5 mins additional travel time from #Bishan to #Khatib towards Jurong East due to a track fault.,jurong east,NS1,khatib,NS14,NSL,NA
+794,7.53E+17,13/7/2016,[NSL] DELAY: Estimate 10 mins additional travel time between Bishan and Khatib due to a track fault.,khatib,NS14,bishan,NS17,NSL,NA
+797,7.48E+17,29/6/2016,[NSL]Update: Estimate 5 mins additional travelling time from #YioChuKang to #AngMoKio towards #MarinaBay due to a track fault.,marina bay,NS27,yio chu kang,NS15,NSL,NA
+798,7.48E+17,29/6/2016,[NSL]Update: Estimate 10 mins additional travelling time from #Yishun to #AngMoKio towards #MarinaBay due to a track fault.,marina bay,NS27,yishun,NS13,NSL,NA
+799,7.48E+17,29/6/2016,[NSL]: Estimate 15 mins additional travelling time from #Woodlands to #AngMoKio towards #MarinaBay due to a track fault.,marina bay,NS27,ang mo kio,NS16,NSL,NA
+804,7.46E+17,23/6/2016,[NSL] UPDATE: No train service from Woodlands to Sembawang due to a power fault. Free regular bus is available from Woodlands to Sembawang.,sembawang,NS11,woodlands,NS9,NSL,NA
+806,7.43E+17,16/6/2016,Expect slight delay from HBF to BNV due to a train fault.,buona vista,CC22,harbourfront,CC29,CCL,NA
+807,7.42E+17,13/6/2016,"Due to earlier train fault from Farrer Road to Caldecott, expected additional travelling time. Train service resumed.",caldecott,CC17,farrer road,CC20,CCL,NA
+816,7.30E+17,11/5/2016,[NSL] : No train service from #Yishun to #Yio Chu Kang due to a train fault. Expected resumption time: 4:25pm.,yishun,NS13,yio chu kang,NS15,NSL,NA
+820,7.27E+17,3/5/2016,[NSL]:Our engineers are working on it. We will update again on the delay.,jurong east,NS1,marina south pier,NS28,NSL,NA
+821,7.27E+17,3/5/2016,"[NSL]:A train fault has been reported at Toa Payoh station, Trains are moving slower towards Jurong East.",jurong east,NS1,toa payoh,NS19,NSL,NA
+828,7.27E+17,2/5/2016,"[EWL]: Due to a train fault, there is no train service between #JooKoon and #BoonLay in both bounds. Expected resumption time will be 4.05pm",boon lay,EW27,joo koon,EW29,EWL,NA
+835,7.25E+17,25/4/2016,"[NSL] UPDATE: Due to traction power fault, there is no train service from Kranji to Woodlands station towards MarinaBay.",marina bay,NS27,kranji,NS7,NSL,NA
+845,7.25E+17,25/4/2016,"[NSEWL] UPDATE: Due to an earlier power fault, expect crowding at some stations and congestion as trains are travelling at a slower speed.",jurong east,NS1,bugis,EW12,EWL,NSL
+853,7.25E+17,25/4/2016,"[NSEWL] No train service between #JooKoon and #Bugis on EWL, between #Woodlands and #JurongEast on NSL due to traction power fault.",jurong east,NS1,bugis,EW12,EWL,NSL
+877,7.23E+17,20/4/2016,"[NSL]: No train service from #Raffles Place towards MarinaSouthPier due to a train fault. Estimated resumption time, 0645hrs.",marina south pier,NS28,raffles place,NS26,NSL,NA
+878,7.23E+17,20/4/2016,"[NSL]: No train service from MarinaSouthPier to Newton towards JurongEast due to a train fault. Estimated resumption time, 0645hrs.",jurong east,NS1,marina south pier,NS28,NSL,NA
+922,7.19E+17,9/4/2016,[EWL]: Estimated 20 mins additional travelling time from PayaLebar to JurongEast towards JooKoon due to train fault.,jurong east,NS1,paya lebar,EW8,EWL,NA
+940,7.18E+17,8/4/2016,[CCL] Update: Expect additional 10mins travelling time between Dhoby Ghaut &amp; Bishan in both directions due to a train fault earlier.,dhoby ghaut,NS24,bishan,NS17,CCL,NA
+942,7.18E+17,7/4/2016,Expect 15mins additional time travel on the CCL between Dhoby Ghaut and Bishan due to a train fault.,dhoby ghaut,NS24,bishan,NS17,CCL,NA
+981,7.12E+17,22/3/2016,"[EWL]Due to traction power fault, there is no train service between #JooKoon and #BoonLay in both directions.",boon lay,EW27,joo koon,EW29,EWL,NA
+1001,7.11E+17,19/3/2016,[CCL] Additional travel time of 15 minutes between #KentRidge and #Harbourfront.,kent ridge,CC24,harbourfront,NE1,CCL,NA
+1007,7.11E+17,18/3/2016,[EWL]UPDATE: Please expect additional 5mins travelling time from #TanahMerah to #Aljunied towards #JooKoon due to earlier track fault.,aljunied,EW9,tanah merah,EW4,EWL,NA
+1011,7.11E+17,18/3/2016,[EWL]UPDATE: Estimate 30 mins additional travelling time from #PasirRis to #Aljunied towards JooKoon due to track fault.,pasir ris,EW1,aljunied,EW9,EWL,NA
+1014,7.11E+17,17/3/2016,[EWL]UPDATE: Estimate 25 mins additional travelling time from #TanahMerah to #Aljunied towards JooKoon due to track fault.,aljunied,EW9,tanah merah,EW4,EWL,NA
+1026,7.07E+17,8/3/2016,[EWL] Estimate additional 15mins travelling time from #JurongEast to #Redhill stations due to track fault at #Redhill.,jurong east,NS1,redhill,EW18,EWL,NA
+1030,7.05E+17,3/3/2016,[CCL] UPDATE: Estimate 20 mins additional travelling time between #PayaLebar and #DhobyGhaut/#MarinaBay due to train fault.,marina bay,NS27,paya lebar,EW8,CCL,NA
+1031,7.05E+17,3/3/2016,[CCL]: Estimate 20 mins additional travelling time between #Stadium and #DhobyGhaut/#MarinaBay in both directions due to train fault.,marina bay,NS27,stadium,CC6,CCL,NA
+1035,7.03E+17,25/2/2016,No train service on BPLRT due to traction power fault. Free Bus Bridging provided.,choa chu kang,BP1,fajar,BP10,BPL,NA
+1042,7.01E+17,19/2/2016,"[EWL] UPDATE: Due to a recurring train fault, no train service between  #JurongEast to #JooKoon. Expected resumption time: 30 minutes.",jurong east,NS1,joo koon,EW29,EWL,NA
+1054,7.00E+17,16/2/2016,[EWL]: Estimate 15 mins additional travelling time from #TanjongPagar  to #Aljunied towards PasirRis due to track fault.,tanjong pagar,EW15,pasir ris,EW1,EWL,NA
+1057,6.99E+17,15/2/2016,[NSL] Estimate 20mins additional travelling time from #CityHall to #Newton towards #JurongEast due to a train fault near #DhobyGhaut.,jurong east,NS1,newton,NS21,NSL,NA
+1067,6.93E+17,28/1/2016,[EWL] UPDATE: Train service from #Aljunied to #JurongEast have resumed. Expect longer travel times as we clear the crowds at the stations.,jurong east,NS1,aljunied,EW9,EWL,NA
+1070,6.92E+17,28/1/2016,[EWL] Estimated 15mins travelling time from #OutramPark to #JurongEast towards #JooKoon due to a train fault.,jurong east,NS1,outram park,EW16,EWL,NA
+1075,6.90E+17,21/1/2016,BPLRT : Only service A is available. Bus bridging available. Expect additional travel time.,choa chu kang,BP1,fajar,BP10,BPL,NA
+1083,6.86E+17,9/1/2016,[NSL] Service on both bounds between #Kranji and #Admiralty have resumed. Expect longer travel times as we clear the crowds at the stations,admiralty,NS10,kranji,NS7,NSL,NA
+1088,6.86E+17,9/1/2016,"[NSL]: No train service between #Woodlands and #Kranji in both directions, due to traction power fault. We are recovering the service.",kranji,NS7,woodlands,NS9,NSL,NA
+1117,6.82E+17,30/12/2015,[EWL Update]: The track fault has been rectified. Trains between Pioneer and JurongEast are moving slower due to earlier congestion.,jurong east,NS1,pioneer,EW28,EWL,NA
+1118,6.82E+17,30/12/2015,[EWL Update]: Estimate 30 mins additional travelling time from JooKoon to Clementi towards PasirRis due to track fault near JurongEast.,jurong east,NS1,pasir ris,EW1,EWL,NA
+1121,6.82E+17,29/12/2015,[EWL]: Estimate 10 mins additional travelling time from JooKoon to Clementi towards PasirRis due to track fault near JurongEast station.,jurong east,NS1,pasir ris,EW1,EWL,NA
+1130,6.79E+17,21/12/2015,[EWL] UPDATE: Estimate 10mins additional travel time from #Bugis towards #JooKoon due to train fault.,bugis,EW12,joo koon,EW29,EWL,NA
+1132,6.79E+17,21/12/2015,[EWL]: Estimate 5 mins additional travelling time from #TiongBahru to #JurongEast towards JooKoon due to train fault.,jurong east,NS1,tiong bahru,EW17,EWL,NA
+1133,6.79E+17,21/12/2015,[EWL] A train fault has been reported at TiongBahru WB. Trains are moving slower towards Joo Koon.,tiong bahru,EW17,joo koon,EW29,EWL,NA
+1149,6.77E+17,17/12/2015,Additional 10mins traveling time between Boon Lay and Jurong East in both directions due to power fault.,jurong east,NS1,boon lay,EW27,NSL,NA
+1150,6.77E+17,17/12/2015,No train service between Joo Koon and  Boon Lay  in both directions due to power fault.,boon lay,EW27,joo koon,EW29,EWL,NA
+1152,6.77E+17,17/12/2015,"Estimated 20mins additional traveling time between Joo Koon and Jurong East, in the both directions due to traction power fault.",jurong east,NS1,joo koon,EW29,NSL,NA
+1163,6.75E+17,10/12/2015,[CCL]: Estimate 15 mins additional travelling time between #Promenade and #MarinaBay in both directions due to track fault.,marina bay,NS27,promenade,CC4,CCL,NA
+1167,6.71E+17,30/11/2015,A track fault has been reported at Yishun. Trains are moving slower from Yishun to Sembawang. We will update again on the delay.,sembawang,NS11,yishun,NS13,NSL,NA
+1188,6.69E+17,24/11/2015,[NSL] No train service between #Yishun and #MarinaSouthPier due to power fault. Free Bus service is available.,marina south pier,NS28,yishun,NS13,NSL,NA
+1190,6.69E+17,24/11/2015,Train services will be delayed on the CCL due to traction power fault.,dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+1194,6.69E+17,22/11/2015,"Estimated 20mins additional traveling time from Yishun to Marina South Pier,due to train fault.",marina south pier,NS28,yishun,NS13,NSL,NA
+1198,6.65E+17,11/11/2015,[CCL]: Estimate 15 mins additional travelling time between #DhobyGhaut and #Promenade in both directions due to track fault.,promenade,CC4,dhoby ghaut,NS24,CCL,NA
+1274,6.59E+17,28/10/2015,[NSL] Estimate 25 mins additional travelling time from Marina Bay to Ang Mo Kio due to train fault at Braddell station.,marina bay,NS27,ang mo kio,NS16,NSL,NA
+1276,6.59E+17,28/10/2015,"[EWL] UPDATE: Due to an earlier track fault, estimate additional 10 minutes travelling time between #Tampines and #PasirRis on both bound.",pasir ris,EW1,tampines,EW2,EWL,NA
+1282,6.59E+17,27/10/2015,[NSL]: Estimate 10 mins additional travelling time from #MarinaBay to #AngMoKio towards JurongEast due to a train fault.,jurong east,NS1,marina bay,NS27,NSL,NA
+1284,6.59E+17,27/10/2015,[NSL]: Longer travelling time expected along NS line in the direction towards JurongEast due to a train fault at Orchard station.,jurong east,NS1,orchard,NS22,NSL,NA
+1290,6.58E+17,25/10/2015,Please estimate additional 20mins traveling time between Tanah Merah and Changi Airport on both bounds due to track fault.,changi airport,CG2,tanah merah,EW4,CGL,NA
+1295,6.57E+17,22/10/2015,[CCL]: Estimate 15 mins additional travelling time between #Mounbatten to #PayaLebar due to train fault. Free Bus services provided.,paya lebar,EW8,NA,NA,CCL,NA
+1305,6.54E+17,15/10/2015,Estimate 20 mins additional travelling time from Clementi to Queenstown towards PasirRis due to train fault. Train service is still running.,clementi,EW23,pasir ris,EW1,EWL,NA
+1318,6.52E+17,9/10/2015,[EWL]:Estimate 15 mins additional travelling time from #OutramPark  to #JurongEast towards JooKoon due to train fault.Service still running.,jurong east,NS1,outram park,EW16,EWL,NA
+1322,6.51E+17,5/10/2015,[EWL] A train fault has been reported at #Pioneer Eastbound. Trains will be travelling at a slower speed towards #PasirRis.,pasir ris,EW1,pioneer,EW28,EWL,NA
+1324,6.51E+17,4/10/2015,"[NSL]: Due to a track fault, there will be an estimated 5 mins additional travelling time from Ang Mo Kio to Khatib towards Jurong East.",jurong east,NS1,khatib,NS14,NSL,NA
+1333,6.49E+17,30/9/2015,[EWL]: Estimate 20 mins additional travelling time from #TanahMerah to #ChangiAirport towards ChangiAirport due to track fault.,changi airport,CG2,tanah merah,EW4,EWL,NA
+1334,6.49E+17,30/9/2015,[EWL] A track fault has been reported at #ChangiAirport. Train will be travelling slower towards #ChangiAirport .,changi airport,CG2,NA,NA,EWL,NA
+1337,6.48E+17,27/9/2015,[NSL] Expect additional 5mins travelling time from #BukitGombak to #JurongEast due to a train fault at #BukitGombak.,jurong east,NS1,bukit gombak,NS3,NSL,NA
+1352,6.46E+17,22/9/2015,"Due to a faulty train at YISHUN North Bound , train service towards Jurong will be delayed for 25 mins.",yishun,NS13,NA,NA,NSL,NA
+1446,6.32E+17,13/8/2015,[NSL]: Estimate 15 mins additional travelling time from #MarinaBay to #AngMoKio towards JurongEast due to track fault near Bishan station.,jurong east,NS1,marina bay,NS27,NSL,NA
+1450,6.32E+17,12/8/2015,[NSL]: Estimate 10 mins additional travelling time between #AngMoKio and #Yishun due to track fault.,yishun,NS13,ang mo kio,NS16,NSL,NA
+1456,6.30E+17,7/8/2015,"Due to a train fault near Tanah Merah, please expect additional travelling time of 15mins from Pasir Ris to Eunos Westbound.",eunos,EW7,pasir ris,EW1,EWL,NA
+1463,6.24E+17,23/7/2015,[EWL]: Estimate 20 mins additional travelling time from #Clementi  to #JooKoon towards JooKoon due to train fault.,clementi,EW23,joo koon,EW29,EWL,NA
+1529,6.18E+17,7/7/2015,We are still investigating the cause of the power fault and are doing our best to restore service on the North South lines.,jurong east,NS1,marina south pier,NS28,NA,NA
+1560,6.17E+17,3/7/2015,[NSL] UPDATE : Estimate 15 mins additional travelling time from #ChoaChuKang to #Admiralty towards MarinaBay due to track fault.,admiralty,NS10,marina bay,NS27,NSL,NA
+1571,6.17E+17,2/7/2015,[NSL]: Estimate 15 mins additional travelling time from #ChoaChuKang to #Admiralty towards Marina South Pier due to track fault.,admiralty,NS10,marina south pier,NS28,NSL,NA
+1594,6.10E+17,15/6/2015,"Due to train fault at Marina Bay station, there is no train service between MRB and MSP.Train service between MRB and JUR running normally.",marina bay,NS27,NA,NA,NSL,NA
+1602,5.99E+17,15/5/2015,[NSL] Estimate 20 mins additional traveling time from #Yishun to #ToaPayoh towards #MarinaBay due to train fault near #Bishan.,toa payoh,NS19,marina bay,NS27,NSL,NA
+1620,5.93E+17,28/4/2015,[BPLRT]:   Est. 15 mins add. travelling time from #Pending to #Bangkit due to train fault. Free public and shuttle bus are still available.,pending,BP8,bangkit,BP9,BPL,NA
+1623,5.93E+17,28/4/2015,"[BPLRT]  UPDATE: Due to power fault, there is no train service on the BPLRT. Free Public and Shuttle Bus are available.",choa chu kang,BP1,fajar,BP10,BPL,NA
+1625,5.93E+17,28/4/2015,[BPLRT]:   Estimate 20 mins additional travelling time from #Phoenix to #BukitPanjang due to power fault.,phoenix,BP5,bukit panjang,DT1,BPL,NA
+1629,5.88E+17,15/4/2015,[NSL] Expect additional 10mins travelling time from #Yishun to #JurongEast due to a track fault near #Kranji.,jurong east,NS1,yishun,NS13,NSL,NA
+1634,5.83E+17,30/3/2015,"[BPLRT]: Due to train fault, BPLRT is running on Service B only.",choa chu kang,BP1,fajar,BP10,BPL,NA
+1645,5.81E+17,27/3/2015,[EWL]: Estimate 20 mins additional travelling time from #Bugis to #Aljunied towards PasirRis due to train fault.,pasir ris,EW1,aljunied,EW9,EWL,NA
+1656,5.80E+17,23/3/2015,"Due to earlier track fault at Pasir Ris, please estimate10mins additional traveling time from Tampines to Pasir Ris on both bounds.",pasir ris,EW1,tampines,EW2,EWL,NA
+1666,5.78E+17,18/3/2015,[NSL] There will be an estimated 15 mins delay from Yew Tee to Kranji on the south bound towards Marina Bay due to a track fault.,marina bay,NS27,yew tee,NS5,NSL,NA
+1713,5.73E+17,3/3/2015,Trains will be slower between #Queenstown to #BoonLay due to track fault near #Clementi. Free bus services available between both stations.,clementi,EW23,queenstown,EW19,EWL,NA
+1715,5.73E+17,3/3/2015,[EWL]: Estimate 15 mins additional travelling time from #Queenstown to #BoonLay in both directions due to track fault.,queenstown,EW19,boon lay,EW27,EWL,NA
+1716,5.73E+17,3/3/2015,[EWL]: Estimate 15 mins additional travelling time from #Queenstown  to #BoonLay towards Joo Koon due to track fault.,joo koon,EW29,queenstown,EW19,EWL,NA
+1718,5.73E+17,3/3/2015,[EWL]: Estimate 20 mins additional travelling time from #TanjongPagar to #JurongEast towards JooKoon due to track fault.,jurong east,NS1,tanjong pagar,EW15,EWL,NA
+1764,5.70E+17,23/2/2015,[NSL] UPDATE: No train service from #YewTee to #Kranji towards MarinaBay due to track fault.,marina bay,NS27,yew tee,NS5,NSL,NA
+1768,5.68E+17,17/2/2015,"[UPDATE] Due to a train fault at Jurong East, there will be no train service from Lakeside to Clementi on the East bound towards Pasir Ris.",clementi,EW23,jurong east,NS1,EWL,NA
+1770,5.68E+17,17/2/2015,"Due to a train fault at Jurong East, there will be 20 min delay from Joo Koon to Jurong East  on the East bound line towards Pasir Ris.",jurong east,NS1,pasir ris,EW1,NSL,NA
+1781,5.62E+17,2/2/2015,[NSL]: Estimate 20 mins additional travelling time from #Marina South Pier to #RafflesPlace towards JurongEast due to train fault.,jurong east,NS1,marina south pier,NS28,NSL,NA
+1785,5.61E+17,30/1/2015,Fault cleared. Expect longer travel time from #Woodlands towards #YioChuKang. Free bus available. Our engineers are rectifying fault now.,yio chu kang,NS15,woodlands,NS9,NSL,NA
+1788,5.61E+17,30/1/2015,[NSL]: Estimate 20 mins additional travelling time from #Sembawang to #YioChuKang towards MarinaBay due to track fault.,marina bay,NS27,sembawang,NS11,NSL,NA
+1790,5.58E+17,22/1/2015,"Due to track fault, there will be additional 10mins traveling time from Bishan to Ang Mo Kio.",ang mo kio,NS16,bishan,NS17,NSL,NA
+1793,5.57E+17,19/1/2015,Trains service delay for 20mins from Admiralty to Yishun on southbound. Free bus service is available between Admiralty and Yishun.,admiralty,NS10,yishun,NS13,NSL,NA
+1798,5.47E+17,23/12/2014,[CCL]: Estimate 10 mins additional travelling time from #Serangoon to #BuonaVista towards #HarbourFront due to power fault.,harbourfront,NE1,buona vista,EW21,CCL,NA
+1802,5.43E+17,10/12/2014,[EWL]: Estimate 20 mins additional travelling time from #JooKoon to #JurongEast in both directions due to a train fault at Joo Koon.,jurong east,NS1,joo koon,EW29,EWL,NA
+1808,5.33E+17,13/11/2014,[CCL] UPDATE: Estimate 15 mins additional travelling time between #Stadium and #DhobyGhaut due to train fault.,stadium,CC6,dhoby ghaut,NS24,CCL,NA
+1809,5.33E+17,13/11/2014,[CCL]: Estimate 20 mins additional travelling time from #PayaLebar to #DhobyGhaut towards #DhobyGhaut due to train fault.,paya lebar,EW8,dhoby ghaut,NS24,CCL,NA
+1811,5.30E+17,4/11/2014,[CCL]: Estimate 15 mins additional travelling time between #KentRidge and #HarbourFront in both directions due to power fault.,kent ridge,CC24,harbourfront,NE1,CCL,NA
+1814,5.28E+17,31/10/2014,"Estimate 15 minutes additional traveling time between Kranji and Admiralty on both bounds due to track fault, possibly due to lightning.",admiralty,NS10,kranji,NS7,NSL,NA
+1824,5.16E+17,29/9/2014,[NSL] UPDATE: Estimate 10mins additional travelling time from YioChuKang to MarinaBay towards Marina Bay due to train fault.,marina bay,NS27,yio chu kang,NS15,NSL,NA
+1829,5.14E+17,23/9/2014,Trains are travelling slower from Marina Bay to Bishan north bound due to an earlier train fault.,marina bay,NS27,bishan,NS17,NSL,NA
+1833,5.14E+17,23/9/2014,"Due to train fault at Somerset station, free bus and free bus bridging service is available between Marina Bay and Newton both bounds.",marina bay,NS27,newton,NS21,NSL,NA
+1840,5.13E+17,19/9/2014,[EWL]:Estimate 10 mins additional travelling time from #OutramPark to #JooKoon due to train fault.We are working to recover the service.,outram park,EW16,joo koon,EW29,EWL,NA
+1846,5.11E+17,13/9/2014,UPDATE: [NSL] Estimate 20 mins additional travelling time between Marina Bay and Newton due to track fault.,marina bay,NS27,newton,NS21,NSL,NA
+1851,5.06E+17,1/9/2014,"UPDATE : [NSL] Due to a train fault near Novena, please expect additional traveling time of 30 mins from Tao Payoh to Newton.",novena,NS20,newton,NS21,NSL,NA
+1852,5.06E+17,1/9/2014,[NSL]: Estimate 30 mins additional travelling time from #ToaPayoh to #Marina Bay towards MarinaBay due to train fault.,toa payoh,NS19,marina bay,NS27,NSL,NA
+1856,4.93E+17,26/7/2014,[EWL] UPDATE: Estimate 20 mins additional travel time from OutramPark towards Kallang due to rail defect. We are working to recover service.,outram park,EW16,kallang,EW10,EWL,NA
+1867,4.92E+17,23/7/2014,[NSL]UPDATE: Estimate 40mins additional travelling time from #ToaPayoh to #Newton towards MarinaBay due to train fault.,toa payoh,NS19,marina bay,NS27,NSL,NA
+1872,4.90E+17,18/7/2014,"Due to a train fault near City Hall, please expect 15 mins additional traveling time from City Hall to Outram Park towards Joo Koon.",joo koon,EW29,outram park,EW16,EWL,NA
+1875,4.90E+17,17/7/2014,[EWL]: Estimate 20 mins additional travelling time from #Tampines to #PasirRis due to track fault. Free bus is available at #Tampines.,pasir ris,EW1,tampines,EW2,EWL,NA
+1986,4.71E+17,27/5/2014,[CCL]: Estimate 15 mins additional travelling time from #Caldecotttowards#HarbourFront due to power fault.,caldecott,CC17,harbourfront,NE1,CCL,NA
+2012,4.62E+17,1/5/2014,"Due to a traction power fault, there will be no train service from Yio Chu Kang northbound towards Yishun northbound.",yishun,NS13,yio chu kang,NS15,NSL,NA
+2029,4.59E+17,22/4/2014,[EWL]: Estimate 10 mins additional travelling time between #JooKoon and #BoonLay in both directions due to track fault.,boon lay,EW27,joo koon,EW29,EWL,NA
+2046,4.54E+17,8/4/2014,[EWL]: Estimate 10 mins additional travelling time from #Lavender to #PayaLebar towards PasirRis due to train fault.,paya lebar,EW8,pasir ris,EW1,EWL,NA
+2065,4.50E+17,30/3/2014,[CCL] UPDATE: Estimate 10 mins additional travelling time between #DhobyGhaut and #Mounbatten due to train fault.,dhoby ghaut,CC1,mountbatten,CC7,CCL,NA
+2069,4.49E+17,27/3/2014,[NSL]: Estimate 10 mins additional travelling time from #YewTee to #JurongEast towards JurongEast due to train fault.,jurong east,NS1,yew tee,NS5,NSL,NA
+2070,4.49E+17,27/3/2014,[NSL]: Estimate 10 mins additional travelling time from #ChoaChuKang to #JurongEast towards JurongEast due to train fault.,jurong east,NS1,choa chu kang,NS4,NSL,NA
+2077,4.49E+17,25/3/2014,[EWL]: Estimate 10 mins additional travelling time between Outram Park and RafflesPlace on both bounds due to track fault at Tanjong Pagar.,tanjong pagar,EW15,outram park,EW16,EWL,NA
+2085,4.48E+17,24/3/2014,[NSL]UPDATE:Estimate 10 mins additional travelling time from #Newton to #MarinaBay towards MarinaBay due to an earlier train fault.,marina bay,NS27,newton,NS21,NSL,NA
+2086,4.48E+17,24/3/2014,[NSL]: Estimate 10 mins additional travelling time from #RafflesPlace to #MarinaBay towards MarinaBay due to train fault.,marina bay,NS27,raffles place,NS26,NSL,NA
+2088,4.40E+17,3/3/2014,[EWL]: Emergency button is activated at Kallang. Expect delay from Kallang towards Joo Koon.,kallang,EW10,joo koon,EW29,EWL,NA
+2093,4.40E+17,2/3/2014,[EWL]: Estimate 15 mins additional travelling time from #Bedok to #OutramPark towards JooKoon due to train fault.,joo koon,EW29,outram park,EW16,EWL,NA
+2096,4.40E+17,2/3/2014,[EWL]: Estimate 20 mins additional travelling time between #TanahMerah and #ChangiAirport in both directions due to train fault.,changi airport,CG2,tanah merah,EW4,EWL,NA
+2102,4.38E+17,25/2/2014,[NSL] UPDATE: Estimate 5 mins additional travel time from #AngMoKio towards #MarinaBay due to track fault.,marina bay,NS27,ang mo kio,NS16,NSL,NA
+2108,4.38E+17,24/2/2014,[NSL]UPDATE: Estimate 10 mins additional travelling time from #JurongEast to #Kranji towards MarinaBay due to track fault.,jurong east,NS1,marina bay,NS27,NSL,NA
+2111,4.38E+17,23/2/2014,[NSL]UPDATE: Estimate 20 mins additional travelling time from #JurongEast to #Kranji towards MarinaBay due to track fault.,jurong east,NS1,marina bay,NS27,NSL,NA
+2112,4.38E+17,23/2/2014,[NSL]: Estimate 10 mins additional travelling time from #ChoaChuKang to #Kranji towards MarinaBay due to track fault.,marina bay,NS27,choa chu kang,NS4,NSL,NA
+2114,4.29E+17,29/1/2014,[NSL]: Estimate 10 mins additional traveling time between #AngMoKio and #MarinaBay in both directions due to track fault.,marina bay,NS27,ang mo kio,NS16,NSL,NA
+2117,4.28E+17,29/1/2014,[EWL]: Estimate 10 mins additional travelling time between #BoonLay and #JooKoon in both directions due to train fault.,boon lay,EW27,joo koon,EW29,EWL,NA
+2122,4.26E+17,22/1/2014,[EWL] No train service between #Tampines and #TanahMerah due to a track fault. Our engineers are at site rectifying the fault now.,tampines,EW2,tanah merah,EW4,EWL,NA
+2127,4.25E+17,20/1/2014,[NSL] UPDATE: Svcs at Yio Chu Kang Station have resumed.  Please provision additional 10mins of travel time from Ang Mo Kio to Marina Bay.,marina bay,NS27,yio chu kang,NS15,NSL,NA
+2130,4.25E+17,20/1/2014,[NSL]: Estimate 20 mins additional travelling time from #Sembawang to #MarinaBay towards MarinaBay due to train fault.,marina bay,NS27,sembawang,NS11,NSL,NA
+2133,4.24E+17,16/1/2014,[EWL]: Estimate 5 mins additional travelling time from #Kallang to #Aljunied towards PasirRis due to track fault.,pasir ris,EW1,kallang,EW10,EWL,NA
+2140,4.22E+17,11/1/2014,[NSL]: No train service between #YewTee and #Woodlands in both directions due to power fault.  Free bus service are available.,yew tee,NS5,woodlands,NS9,NSL,NA
+2141,4.22E+17,11/1/2014,[NSL]:  Train services between #Kranji and #YewTee will be delayed for 20 minutes due to a traction power fault.,yew tee,NS5,kranji,NS7,NSL,NA
+2143,4.19E+17,2/1/2014,[NSL]: Estimate 10 mins additional travelling time from #YioChuKang to #Bishan towards MarinaBay due to a traction power fault.,marina bay,NS27,yio chu kang,NS15,NSL,NA
+2148,4.13E+17,18/12/2013,[EWL]: Estimate 10 mins additional travelling time from #JurongEast to #OutramPark towards #PasirRis due to train fault.,jurong east,NS1,outram park,EW16,EWL,NA
+2150,3.96E+17,1/11/2013,[EWL]: Estimate 10 mins additional travelling time from #BoonLay to #JooKoon towards JooKoon due to track fault.,boon lay,EW27,joo koon,EW29,EWL,NA
+2157,3.94E+17,26/10/2013,[CCL] Expect longer travel time (~10min) between #LabradorPark &amp; #HarbourFront stations due to power cable change. http://t.co/M6xQuxGQ4P,harbourfront,NE1,labrador park,CC27,CCL,NA
+2160,3.94E+17,25/10/2013,"[CCL]On 27 Oct,6-10am, travel time between #LabradorPark &amp; #HarbourFront will be longer due to power cable change. http://t.co/M6xQuxGQ4P",harbourfront,NE1,labrador park,CC27,CCL,NA
+2161,3.93E+17,24/10/2013,"[CCL] On 27 Oct, 6-10am, travel time between #LabradorPark &amp; #HarbourFront will be longer due to power cable change. http://t.co/M6xQuxGQ4P",harbourfront,NE1,labrador park,CC27,CCL,NA
+2162,3.93E+17,23/10/2013,"[CCL] On 27 Oct, 6-10am, travel time between #LabradorPark &amp; #HarbourFront will be longer due to power cable change. http://t.co/M6xQuxGQ4P",harbourfront,NE1,labrador park,CC27,CCL,NA
+2163,3.93E+17,22/10/2013,"[CCL] On 27 Oct, 6-10am, travel time between #LabradorPark &amp; #HarbourFront will be longer due to power cable change. http://t.co/M6xQuxGQ4P",harbourfront,NE1,labrador park,CC27,CCL,NA
+2164,3.92E+17,21/10/2013,"[CCL] On 27 Oct, 6-10am, travel time between #LabradorPark &amp; #HarbourFront will be longer due to power cable change. http://t.co/M6xQuxGQ4P",harbourfront,NE1,labrador park,CC27,CCL,NA
+2174,3.88E+17,9/10/2013,[EWL]: Estimate 30 mins additional travelling time between #BoonLay and #JooKoon in both directions due to track fault.,boon lay,EW27,joo koon,EW29,EWL,NA
+2176,3.87E+17,5/10/2013,[EWL]: Estimate 20 mins additional travelling time from #JurongEast to #Queenstown towards PasirRis due to train fault.,jurong east,NS1,pasir ris,EW1,EWL,NA
+2178,3.86E+17,3/10/2013,[NSL]: Estimate 20 mins additional travelling time between #Yishun and #Woodlands due to train fault.,yishun,NS13,woodlands,NS9,NSL,NA
+2182,3.84E+17,28/9/2013,[NSL]: Estimate 15 mins additional travelling time between #Woodlands and #AngMoKio due to train fault.,ang mo kio,NS16,woodlands,NS9,NSL,NA
+2184,3.82E+17,24/9/2013,[NSL]: Estimate 20 mins additional travelling time from #DhobyGhaut to #MarinaBay towards MarinaBay due to train fault.,marina bay,NS27,dhoby ghaut,NS24,NSL,NA
+2188,3.80E+17,18/9/2013,[NSL] UPDATE: No train service between #RafflesPlace and #MarinaBay on both bounds due to track fault. Estimate resuming time is 1540 hrs.,marina bay,NS27,raffles place,NS26,NSL,NA
+2196,3.71E+17,24/8/2013,[EWL] UPDATE: Estimate 20 mins additional travel time between #Tampines and #PasirRis. We are working to recover service.,pasir ris,EW1,tampines,EW2,EWL,NA
+2199,3.68E+17,14/8/2013,[EWL] UPDATE: Estimate 15 mins additional travel time from #TiongBahru towards #JooKoon due to train fault.,tiong bahru,EW17,joo koon,EW29,EWL,NA
+2200,3.68E+17,14/8/2013,[EWL]: Estimate 15 mins additional travelling time from #TiongBahru to #Queenstown towards JooKoon due to train fault.,tiong bahru,EW17,queenstown,EW19,EWL,NA
+2203,3.67E+17,14/8/2013,[CCL]: Estimate 5 mins additional travelling time from #BotanicGardens to #Caldecott towards DhobyGhaut due to track fault.,caldecott,CC17,dhoby ghaut,NS24,CCL,NA
+2204,3.67E+17,14/8/2013,[NSL]: Estimate 20 mins additional travelling time from #Yishun to #Woodlands towards JurongEast due to train fault.,jurong east,NS1,yishun,NS13,NSL,NA
+2206,3.64E+17,5/8/2013,[BPLRT]: Estimate 20 mins service delay from #Phoenix to #BukitPanjang due to power fault.,phoenix,BP5,bukit panjang,DT1,BPL,NA
+2208,3.64E+17,3/8/2013,[EWL]: Estimate 10 mins additional travelling time between #Expo and #ChangiAirport in both directions due to track fault.,expo,CG1,changi airport,CG2,EWL,NA
+2211,3.61E+17,27/7/2013,[CCL]UPDATE:Due to a track fault at CCL.Passengers travelling to #HarbourFront from#DhobyGhaut are advised to transfer at #Promenade.,promenade,CC4,harbourfront,NE1,CCL,NA
+2212,3.61E+17,27/7/2013,[CCL]: Estimate 10 mins additional travelling time between #DhobyGhaut and #Promenade due to track fault.,promenade,CC4,dhoby ghaut,NS24,CCL,NA
+2217,3.53E+17,4/7/2013,[CCL]:Estimate 20 mins delay for CCL train service due to communication equipment failure.,dhoby ghaut,CC1,harbourfront,CC29,CCL,NA
+2220,3.53E+17,3/7/2013,[BPLRT] UPDATE: Estimate 10 mins additional travelling time for BPLRT train service due to track fault. Free bus services are available.,choa chu kang,BP1,fajar,BP10,BPL,NA
+2225,3.50E+17,25/6/2013,[EWL]: Estimated 25 mins additional travelling time from #Kembangan to #Bedok towards PasirRis due to train fault.,pasir ris,EW1,bedok,EW5,EWL,NA
+2227,3.49E+17,22/6/2013,[CCL]: Expect longer travel time(~15) between Caldecott &amp; HollandVillage stations due to power cable change. http://t.co/Wo7S6s3JZs,holland village,CC21,caldecott,CC17,CCL,NA
+2230,3.48E+17,21/6/2013,"[CCL] On 23 Jun, 6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change. http://t.co/Wo7S6s3JZs",holland village,CC21,caldecott,CC17,CCL,NA
+2231,3.48E+17,20/6/2013,"[CCL] On 23 Jun, 6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change. http://t.co/Wo7S6s3JZs",holland village,CC21,caldecott,CC17,CCL,NA
+2236,3.47E+17,19/6/2013,[SBST] NEL: Estimate 30 minutes delay along North-East Line due to a train fault.,harbourfront,NE1,punggol,NE17,NEL,NA
+2239,3.46E+17,16/6/2013,[NSL]: Estimate 4 mins additional travelling time from #AngMoKio to #Bishan towards MarinaBay due to track fault.,marina bay,NS27,ang mo kio,NS16,NSL,NA
+2241,3.43E+17,8/6/2013,"[CCL]On 9 Jun,6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change. http://t.co/Wo7S6s3JZs",holland village,CC21,caldecott,CC17,CCL,NA
+2242,3.43E+17,7/6/2013,"[CCL]On 9 Jun,6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change. http://t.co/Wo7S6s3JZs",holland village,CC21,caldecott,CC17,CCL,NA
+2243,3.43E+17,6/6/2013,"[CCL]On 9 Jun,6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change. http://t.co/Wo7S6s3JZs",holland village,CC21,caldecott,CC17,CCL,NA
+2246,3.42E+17,4/6/2013,No train service earlier on SBST-operated Northeast Line b/w Outram &amp; Dhoby Ghaut stations both bounds due to a power fault,dhoby ghaut,NE6,outram park,NE3,NEL,NA
+2255,3.40E+17,31/5/2013,[EWL] UPDATE: Due to a rail crack at #TiongBahru. Estimated 30 mins additional travel time from #JurongEast to #OutramPark toward #PasirRis.,jurong east,NS1,outram park,EW16,EWL,NA
+2257,3.40E+17,31/5/2013,[EWL] UPDATE: Due to a rail crack at #TiongBahru. Estimated 20 mins additional travel time from #TiongBahru towards #OutramPark.,outram park,EW16,tiong bahru,EW17,EWL,NA
+2263,3.40E+17,31/5/2013,[EWL]: Estimate 20 mins additional travelling time between #TanahMerah and #ChangiAirport in both directions due to track fault.,changi airport,CG2,tanah merah,EW4,EWL,NA
+2268,3.40E+17,29/5/2013,"[NSL]UPDATE: Due to a track fault at #YioChuKang, as a safety precaution trains are travelling slower from #Woodlands to #DhobyGhaut.",yio chu kang,NS15,dhoby ghaut,NS24,NSL,NA
+2272,3.40E+17,29/5/2013,[NSL]: Estimate 30 mins additional travelling time from #Woodlands to #AngMoKio towards MarinaBay due to track fault at Yio Chu Kang.,marina bay,NS27,yio chu kang,NS15,NSL,NA
+2274,3.39E+17,27/5/2013,[EWL]: Estimate 10 mins additional travelling time from #JurongEast to #PasirRis due to an earlier train fault.,jurong east,NS1,pasir ris,EW1,EWL,NA
+2276,3.38E+17,23/5/2013,[EWL] UPDATE: Estimate 25 mins additional travel time from #Aljunied to #TanahMerah towards PasirRis due to an earlier train fault.,pasir ris,EW1,aljunied,EW9,EWL,NA
+2278,3.38E+17,23/5/2013,[EWL]: Estimate 20 mins additional travelling time from #PasirRis to #Eunos towards JooKoon due to train fault.,eunos,EW7,pasir ris,EW1,EWL,NA
+2282,3.36E+17,18/5/2013,[CCL] Expect longer travel time (~15min) between Caldecott &amp; HollandVillage stations due to power cable change. http://t.co/ncAmAQI128,holland village,CC21,caldecott,CC17,CCL,NA
+2287,3.36E+17,18/5/2013,NB svc btn MarinaBay &amp; Braddell delayed due to rail crack. Engineers deployed to secure rail joint. Trains travelling slower for safety.,marina bay,NS27,braddell,NS18,NSL,NA
+2288,3.36E+17,18/5/2013,"Due to a rail crack near Braddell, trains are safe for travel and additional travel time of 30min from Marina Bay towards Bishan.",marina bay,NS27,bishan,NS17,NSL,NA
+2290,3.36E+17,18/5/2013,[NSL] UPDATE: Due to a track fault near BDL station there will be estimated 20 mins additional traveling time towards #Bishan.,bishan,NS17,braddell,NS18,NSL,NA
+2291,3.36E+17,18/5/2013,[NSL] UPDATE: Estimate 20 mins additional travel time from #DhobyGhaut towards #Bishan due to track fault.,dhoby ghaut,NS24,bishan,NS17,NSL,NA
+2292,3.36E+17,18/5/2013,[NSL]: Estimated 10 mins additional travelling time from #DhobyGhaut to #Bishan towards JurongEast due to track fault.,jurong east,NS1,dhoby ghaut,NS24,NSL,NA
+2295,3.35E+17,17/5/2013,"[CCL]:On 19 May,6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change.",holland village,CC21,caldecott,CC17,CCL,NA
+2297,3.35E+17,17/5/2013,[BPLRT]: Estimate 20 mins additional travelling time between #BukitPanjang and #ChoaChuKang due to train fault at #Phoenix.,bukit panjang,DT1,phoenix,BP5,BPL,NA
+2299,3.35E+17,16/5/2013,"[CCL]:On 19 May,6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change.",holland village,CC21,caldecott,CC17,CCL,NA
+2300,3.35E+17,15/5/2013,"[CCL]:On 19 May,6-10am, travel time between Caldecott &amp; HollandVillage will be longer due to power cable change. http://t.co/IMwFZ4B2XT",holland village,CC21,caldecott,CC17,CCL,NA
+2302,3.34E+17,12/5/2013,[EWL] UPDATE: Train traveling at a slower speed. Estimate 20 mins additional travel time from #PasirRis towards #JooKoon due to train fault.,pasir ris,EW1,joo koon,EW29,EWL,NA
+2303,3.34E+17,12/5/2013,[EWL]: Estimate 10 mins additional travelling time from #Kembangan to #Eunos due to train fault.,eunos,EW7,kembangan,EW6,EWL,NA
+2305,3.33E+17,11/5/2013,[CCL]Expect longer travel time (~10min) between Bishan &amp; BotanicGardens stations due to power cable change. http://t.co/IMwFZ4B2XT,botanic gardens,CC19,bishan,NS17,CCL,NA
+2311,3.30E+17,3/5/2013,"[CCL]We're changing power cables 6-10am,19May to keep u on track.Schedule more travel time btwn BotanicGdns&amp;Farrer Rd http://t.co/IMwFZ4B2XT",botanic gardens,CC19,farrer road,CC20,CCL,NA
+2312,3.30E+17,3/5/2013,"[CCL]We're changing power cables 6-10am,12May to keep u on track.Schedule more travel time btwn Marymount &amp; Caldecott http://t.co/IMwFZ4B2XT",marymount,CC16,caldecott,CC17,CCL,NA
+2314,3.30E+17,2/5/2013,[NSL]: Estimate 20 mins additional travelling time between #Bishan and #MarinaBay due to track fault.,marina bay,NS27,bishan,NS17,NSL,NA
+2318,3.29E+17,29/4/2013,"[NSL]UPDATE: Due to earlier track fault, trains will be travelling at a slower speed from Somerset towards Orchard.",orchard,NS22,somerset,NS23,NSL,NA
+2319,3.29E+17,29/4/2013,"[NSL]UPDATE: Due to earlier track fault, trains will be travelling at a slower speed from MarinaBay towards Orchard.",marina bay,NS27,orchard,NS22,NSL,NA
+2323,3.29E+17,29/4/2013,[NSL]UPDATE:Estimate 10 mins additional travel time from #MarinaBay towards #AngMoKio due to track fault.  Our staff are recovering service.,marina bay,NS27,ang mo kio,NS16,NSL,NA
+2330,3.29E+17,29/4/2013,[NSL]:Estimate 10 mins additional travelling time from #MarinaBay to #AngMoKio towards JurongEast due to track fault.,jurong east,NS1,marina bay,NS27,NSL,NA
+2338,3.23E+17,12/4/2013,[EWL]Train delays(~5mins) due to signalling fault btwn Tampines &amp; Pasir Ris stns. Pls listen to stn announcements &amp; plan travel accordingly.,pasir ris,EW1,tampines,EW2,EWL,NA
+2339,3.23E+17,12/4/2013,[EWL]Signaling fault causing delay on East-West Line.Only one platform being used at Pasir Ris station.SMRT working on rectifying situation.,pasir ris,EW1,tuas link,EW33,EWL,NA
+2346,3.19E+17,2/4/2013,[NSL]: Estimate 10 mins additional travelling time from #RafflesPlace to #MarinaBay towards MarinaBay due to track fault.,marina bay,NS27,raffles place,NS26,NSL,NA
+2351,3.19E+17,2/4/2013,[BPLRT] No service at all BPLRT stations due to suspected power fault. Our staff is attending to recovery works.,choa chu kang,BP1,fajar,BP10,BPL,NA
+2371,3.04E+17,19/2/2013,[NSL]: Estimate 15 mins additional travelling time from #MarinaBay to #Bishan towards JurongEast due to train fault.,jurong east,NS1,marina bay,NS27,NSL,NA
+2374,3.02E+17,15/2/2013,"[EWL] UPDATE:Due to the earlier train fault at Raffles Place, estimate 8mins additional travelling time from #Bedok towards #Kallang.",kallang,EW10,bedok,EW5,EWL,NA
+2375,3.02E+17,15/2/2013,"[EWL] UPDATE:Due to an earlier train fault at Raffles Place, estimate 15 mins additional travelling time from #PayaLebar towards #PasirRis.",paya lebar,EW8,pasir ris,EW1,EWL,NA
+2376,3.02E+17,15/2/2013,"[EWL] Due to an earlier train fault, estimate 20 mins additional travelling time from #Bugis towards #PasirRis.",pasir ris,EW1,bugis,EW12,EWL,NA
+2384,3.02E+17,13/2/2013,[NSL] UPDATE: Estimate 20 mins additional travel time between #MarinaBay and #Woodlands due an incident at Newton station.,marina bay,NS27,newton,NS21,NSL,NA
+2397,2.99E+17,7/2/2013,[NSL]Estimated 10mins additional travelling time from Bishan toward Marina Bay due to train fault,marina bay,NS27,bishan,NS17,NSL,NA
+2415,2.97E+17,1/2/2013,[BUS] UPDATE: Service 178 (Woodlands-Boon Lay) delayed up to 1hr due to external road accident.,boon lay,EW27,woodlands,NS9,EWL,NA
+2434,2.94E+17,22/1/2013,[EWL]: Estimate 10 mins additional travelling time from #TiongBahru to #OutramPark towards PasirRis due to train fault.,outram park,EW16,pasir ris,EW1,EWL,NA
+2459,2.89E+17,10/1/2013,Update from SBST: No NEL train service in both directions between Dhoby Ghaut &amp; HarbourFront stations due to a power fault.,dhoby ghaut,NS24,harbourfront,NE1,NEL,NA
+2462,2.89E+17,10/1/2013,[SBST] NEL: Train service in both directions is delayed by about 15 minutes due to a power fault.,harbourfront,NE1,punggol,NE17,NEL,NA
+2474,2.86E+17,31/12/2012,[EWL] UPDATE: Estimate 5 mins additional travel time from #Aljunied towards #JurongEast. We are working to recover service.,jurong east,NS1,aljunied,EW9,EWL,NA
+2475,2.86E+17,31/12/2012,[EWL] UPDATE: Estimate 10 mins additional travel time from #TanahMerah towards #Clementi due to train fault.,clementi,EW23,tanah merah,EW4,EWL,NA
+2482,2.86E+17,31/12/2012,[NSL] UPDATE: Estimate 5 mins additional travel time from #BukitBatok towards #MarinaBay. We are working to recover service.,marina bay,NS27,bukit batok,NS2,NSL,NA
+2486,2.86E+17,30/12/2012,[CCL]: Estimate 5 mins additional travelling time from #PayaLebar to #MacPherson towards HarbourFront due to track fault.,paya lebar,EW8,harbourfront,NE1,CCL,NA
+2501,2.82E+17,20/12/2012,[NEL] No train service between Punggol and Little India stations due to train fault.,little india,NE7,punggol,NE17,NEL,NA
+2518,2.79E+17,13/12/2012,[EWL] UPDATE: Estimate 10 mins additional travel time from #Redhill towards #Clementi due to train fault.,clementi,EW23,redhill,EW18,EWL,NA
+2523,2.78E+17,11/12/2012,[EWL]: Estimate 20 mins additional travelling time from #Kembangan to #PasirRis towards PasirRis due to train fault.,pasir ris,EW1,kembangan,EW6,EWL,NA
+2584,2.65E+17,5/11/2012,[NSL]: Estimate 10 mins additional travelling time from #MarinaBay  to #Bishan towards JurongEast due to train fault.,jurong east,NS1,marina bay,NS27,NSL,NA
+2597,2.64E+17,2/11/2012,[EWL]:Longer travelling time expected along EW line in the direction towards PasirRis due to track fault between #RafflesPlace and #CityHall,pasir ris,EW1,city hall,NS25,EWL,NA
+2600,2.64E+17,2/11/2012,[CCL]: Estimate 5 mins additional travelling time from #HarbourFront to #PayaLebar on both bounds due to train fault.,paya lebar,EW8,harbourfront,NE1,CCL,NA
+2612,2.64E+17,1/11/2012,[NSL]: Estimate 5 mins additional travelling time from #AngMoKio to #YioChuKang towards JurongEast due to train fault.,jurong east,NS1,yio chu kang,NS15,NSL,NA
+2616,2.64E+17,1/11/2012,[EWL]: Estimate 5 mins additional travelling time from #Aljunied to #TanahMerah towards PasirRis due to train fault.,pasir ris,EW1,aljunied,EW9,EWL,NA
+2625,2.64E+17,31/10/2012,[NSL]: Estimate 5 mins additional travelling time from #RafflesPlace to #MarinaBay towards MarinaBay due to train fault.,marina bay,NS27,raffles place,NS26,NSL,NA
+2628,2.64E+17,31/10/2012,[EWL]: Estimate 5 mins additional travelling time from #BoonLay to #PasirRis towards PasirRis due to train fault.,pasir ris,EW1,boon lay,EW27,EWL,NA
+2640,2.63E+17,30/10/2012,[EWL]: Estimate 5 mins additional travelling time from #PayaLebar to #Eunos towards PasirRis due to train fault.,eunos,EW7,paya lebar,EW8,EWL,NA
+2674,2.62E+17,27/10/2012,[NSL]: Estimate 5 mins additional travelling time from #ChoaChuKang to #Yishun towards MarinaBay due to train fault.,marina bay,NS27,yishun,NS13,NSL,NA
+2675,2.62E+17,27/10/2012,[CCL]: Estimate 5 mins additional travelling time from #TaiSeng to #Bartley towards HarbourFront due to track fault.,bartley,CC12,harbourfront,NE1,CCL,NA
+2704,2.61E+17,25/10/2012,[CCL] UPDATE: No train service between #DhobyGhaut and #HarbourFront due to power fault for about 1 hour.Buses are being arranged.,harbourfront,NE1,dhoby ghaut,NS24,CCL,NA
+2722,2.61E+17,24/10/2012,[NSL] UPDATE: Southbound trains towards #MarinaBay are running slower due to track fault at #MarinaBay.,jurong east,NS1,marina bay,NS27,NSL,NA
+2727,2.61E+17,24/10/2012,[NSL] Trains are running slower than normal from #JurongEast towards #MarinaBay due to track fault. Please allow extra time for travel.,jurong east,NS1,marina bay,NS27,NSL,NA
+2741,2.61E+17,23/10/2012,[NSL]: Estimate 5 mins additional travelling time from Newton to Ang Mo Kio towards Jurong East due to train fault.,jurong east,NS1,newton,NS21,NSL,NA
+2766,2.60E+17,22/10/2012,[NSL]: Trains are running slightly slower than normal due to train fault from #Orchard to #MarinaBay towards MarinaBay.,marina bay,NS27,orchard,NS22,NSL,NA
+2774,2.60E+17,22/10/2012,[EWL]: Estimate 5 mins additional travelling time from #JooKoon towards #PasirRis due to train fault.,pasir ris,EW1,joo koon,EW29,EWL,NA
+2789,2.60E+17,21/10/2012,[EWL]: Estimate 5 mins additional travelling time from #PasirRis to #TanahMerah towards JooKoon due to train fault.,pasir ris,EW1,tanah merah,EW4,EWL,NA
+2801,2.60E+17,20/10/2012,[NSL]: Estimate 5 mins additional travelling time from #JurongEast to #BukitBatok towards MarinaBay due to train fault.,jurong east,NS1,bukit batok,NS2,NSL,NA
+2803,2.60E+17,20/10/2012,[NSL]: Estimate 5 mins additional travelling time from #Kranji to #YewTee towards JurongEast due to train fault.,jurong east,NS1,yew tee,NS5,NSL,NA
+2828,2.59E+17,19/10/2012,Estimated 10 minutes additional traveling time from Tao Payoh towards Jurong East due to track fault.,toa payoh,NS19,jurong east,NS1,NSL,NA
+2830,2.59E+17,19/10/2012,Estimated 5 minutes additional traveling time from Ang Mo Kio towards Jurong East due to track fault.,jurong east,NS1,ang mo kio,NS16,NSL,NA
+2831,2.59E+17,19/10/2012,Estimated 5 minutes additional traveling time from Yio Chu Kang to Newton towards Marina Bay due to track fault.,marina bay,NS27,newton,NS21,NSL,NA
+2832,2.59E+17,19/10/2012,Estimated 5 minutes additional traveling time from Woodlands to Choa Chu Kang towards Jurong Esat due to train fault.,choa chu kang,NS4,woodlands,NS9,NSL,NA
+2857,2.58E+17,17/10/2012,[EWL]: Longer travelling time from #Lavender to #Eunos towards PasirRis due to train fault.,eunos,EW7,pasir ris,EW1,EWL,NA
+2876,2.58E+17,16/10/2012,[EWL]: Estimate 15 mins additional travelling time from #JurongEast  to #Lakeside towards JooKoon due to train fault.,jurong east,NS1,lakeside,EW26,EWL,NA
+2877,2.58E+17,16/10/2012,[EWL]: Estimate 15 mins additional travelling time from #Queenstown to #Lakeside towards JooKoon due to train fault.,lakeside,EW26,queenstown,EW19,EWL,NA
+2882,2.58E+17,15/10/2012,[EWL]: Estimate 5 mins additional travelling time from #TanjongPagar to #Kallang towards PasirRis due to train fault.,tanjong pagar,EW15,pasir ris,EW1,EWL,NA
+2903,2.58E+17,14/10/2012,[EWL] UPDATE: No train service from #PasirRis towards #Tampines  due to train fault. Buses are being arranged.,pasir ris,EW1,tampines,EW2,EWL,NA
+2911,2.57E+17,14/10/2012,[EWL]: Estimate 5 mins additional travel time from #JooKoon towards #PasirRis due to a train fault.,pasir ris,EW1,joo koon,EW29,EWL,NA
+2922,2.57E+17,14/10/2012,[EWL]: Estimate 10 mins additional travelling time from #TanahMerah to #ChangiAirport towards ChangiAirport due to track fault.,changi airport,CG2,tanah merah,EW4,EWL,NA
+2936,2.57E+17,12/10/2012,[NSL]: Longer travelling time from #YioChuKang to #Braddell towards MarinaBay due to train fault.,marina bay,NS27,yio chu kang,NS15,NSL,NA
+2953,2.56E+17,11/10/2012,[EWL] UPDATE: Estimate 5 mins additional travel time between #JurongEast and #JooKoon due to track fault.,jurong east,NS1,joo koon,EW29,EWL,NA
+2955,2.56E+17,11/10/2012,[EWL] UPDATE: Estimate 5 mins additional travel time from #CityHall towards #TiongBahru due to train fault.,tiong bahru,EW17,city hall,NS25,EWL,NA
+2987,2.55E+17,8/10/2012,[EWL]: Estimate 5 mins additional travelling time from #Aljunied to #RafflesPlace towards JooKoon due to train fault.,aljunied,EW9,joo koon,EW29,EWL,NA
+3006,2.55E+17,7/10/2012,[EWL]: Emergency button activated at #TanahMerah due to customer's bag caught at train doors. Expect longer travel time towards #PasirRis.,pasir ris,EW1,tanah merah,EW4,EWL,NA
+3036,2.54E+17,4/10/2012,[BPLRT]: Trains are delayed from #ChoaChuKang to #BukitPanjang. Estimated additional travel time: 6 mins,bukit panjang,DT1,choa chu kang,NS4,BPL,NA
+3057,2.53E+17,2/10/2012,[EWL]: Trains are delayed from #Aljunied to #RafflesPlace towards JooKoon. Estimated additional travel time: 5 mins,aljunied,EW9,joo koon,EW29,EWL,NA
+3060,2.53E+17,2/10/2012,[EWL]: Trains are delayed between #PasirRis and #Bedok in both directions. Estimated additional travel time: 5 mins,pasir ris,EW1,bedok,EW5,EWL,NA
+3070,2.53E+17,1/10/2012,[EWL] UPDATE: Estimate 5 mins additional travel time from #Kallang towards #TanahMerah due to train fault.,kallang,EW10,tanah merah,EW4,EWL,NA
+3071,2.53E+17,1/10/2012,[EWL] UPDATE: Estimate 5 mins additional travel time from #TanjongPagar towards #Kallang due to train fault.,tanjong pagar,EW15,kallang,EW10,EWL,NA
+3072,2.53E+17,1/10/2012,[EWL] UPDATE: Estimate 5 mins additional travel time from #Queenstown towards #RafflesPlace due to train fault.,queenstown,EW19,raffles place,NS26,EWL,NA
+3076,2.53E+17,1/10/2012,"[EWL]: Due to a train fault, trains are delayed from #BoonLay towards #BuonaVista.  Estimated additional travel time: 5 mins",boon lay,EW27,buona vista,EW21,EWL,NA
+3132,2.51E+17,27/9/2012,[NSL] UPDATE: Estimate 5 mins additional travel time from #Marsiling towards #Admiralty due to train fault.,admiralty,NS10,marsiling,NS8,NSL,NA
+3138,2.51E+17,27/9/2012,[NSL] : Estimate 3 mins additional travel time from #DhobyGhaut towards #MarinaBay due to emergency button activation by customer.,marina bay,NS27,dhoby ghaut,NS24,NSL,NA
+3150,2.51E+17,26/9/2012,[NSL] : Estimate 5 mins additional travel time from #CityHall towards #MarinaBay due to emergency button activation by customer.,marina bay,NS27,city hall,NS25,NSL,NA
+3152,2.51E+17,26/9/2012,[EWL]: Estimate 5 mins additional travel time from #TanjongPagar towards #JooKoon due to emergency button activation by customer.,tanjong pagar,EW15,joo koon,EW29,EWL,NA
+3153,2.51E+17,25/9/2012,[NSL]: [Update]Earlier delay from #ChoaChuKang towards #JurongEast was due to obstruction detected when closing train door at #BukitGombak .,jurong east,NS1,bukit gombak,NS3,NSL,NA
+3156,2.51E+17,25/9/2012,[NSL]: Trains are delayed from #ChoaChuKang to #JurongEast towards MarinaBay. Estimated additional travel time: 5 mins,jurong east,NS1,marina bay,NS27,NSL,NA
+3161,2.50E+17,25/9/2012,[BPLRT]: Trains are delayed from #BukitPanjang to #Phoenix via TenMileJunction. Estimated additional travel time: 10 mins,phoenix,BP5,ten mile junction,BP14,BPL,NA
+3165,2.50E+17,25/9/2012,[NSL] : Estimate 5 mins additional travel time from #Khatib towards #Novena due to train fault.,novena,NS20,khatib,NS14,NSL,NA
+3180,2.50E+17,23/9/2012,[EWL]: Expect slight delay from #BoonLay towards #JooKoon due to emergency button activation by customer at #BoonLay.,boon lay,EW27,joo koon,EW29,EWL,NA
+3192,2.50E+17,23/9/2012,[EWL]: Expect slight delay from #Aljunied towards #PayaLebar due to emergency button activation by customer at #Aljunied.,paya lebar,EW8,aljunied,EW9,EWL,NA
+3209,2.50E+17,22/9/2012,[EWL]: Expect slight delay from #Expo towards #ChangiAirport due to emergency button activation by customer at #Expo.,expo,CG1,changi airport,CG2,EWL,NA
+3219,2.49E+17,22/9/2012,[NSL]: Trains are delayed from #Kranji to #Woodlands towards MarinaBay. Estimated additional travel time: 3 mins,marina bay,NS27,kranji,NS7,NSL,NA
