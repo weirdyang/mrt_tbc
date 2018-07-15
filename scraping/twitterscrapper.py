@@ -14,11 +14,6 @@ BITLY_KEY = config.data['BITLY_KEY']
 
 
 def get_tweets(api, screen_name):
-	#authentication
-	auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-	auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-	api = tweepy.API(auth)
-	#query
 	#http://docs.tweepy.org/en/v3.5.0/api.html#timeline-methods
 	#API.user_timeline([id/user_id/screen_name][, since_id][, max_id][, count][, page])
 	#structure of status object https://gist.github.com/dev-techmoe/ef676cdd03ac47ac503e856282077bf2
@@ -60,12 +55,11 @@ def get_tweets(api, screen_name):
 
 
 if __name__ == '__main__':
-	#pass in the username of the account you want to download
-	#pass in the username of the account you want to download
 	#authentication
 	auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 	auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
 	api = tweepy.API(auth)
+	#pass in screen name
 	name_list = ['sewnsew1515', 'JosieBliss_']
 	for name in name_list:
 		get_tweets(api, name)
